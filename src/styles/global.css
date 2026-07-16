@@ -99,24 +99,16 @@ h2 {
 .concept-explorer {
   display: grid;
   grid-template-columns: minmax(11rem, 18rem) 1fr;
-  grid-template-rows: 1fr;
-  height: calc(100dvh - 12.5rem);
-  min-height: 24rem;
-  overflow: hidden;
+  align-items: start;
+  min-height: calc(100dvh - 12.5rem);
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   background: var(--color-surface);
 }
 
-.concept-explorer__list-panel,
-.concept-explorer__detail-panel {
-  min-height: 0;
-}
-
 .concept-explorer__list-panel {
   display: flex;
   flex-direction: column;
-  overflow: hidden;
   border-right: 1px solid var(--color-border);
   background: #f5f9fc;
 }
@@ -138,8 +130,6 @@ h2 {
 }
 
 .concept-explorer__list {
-  flex: 1;
-  overflow: hidden;
   list-style: none;
   padding: 0;
   margin: 0;
@@ -210,11 +200,7 @@ h2 {
 }
 
 .concept-explorer__detail-panel {
-  overflow-y: auto;
-  overflow-x: hidden;
   padding: 1rem 1.25rem;
-  scrollbar-width: thin;
-  min-height: 0;
 }
 
 .concept-explorer__back {
