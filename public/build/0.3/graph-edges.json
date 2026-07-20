@@ -1,0 +1,1032 @@
+[
+  {
+    "source": "aftoppingsgrens",
+    "target": "huurtoeslag",
+    "type": "related"
+  },
+  {
+    "source": "aftoppingsgrens",
+    "target": "passend-toewijzen",
+    "type": "related"
+  },
+  {
+    "source": "aftoppingsgrens",
+    "target": "rekenhuur",
+    "type": "related"
+  },
+  {
+    "source": "beleidswaarde",
+    "target": "marktwaarde",
+    "type": "related"
+  },
+  {
+    "source": "beleidswaarde",
+    "target": "vastgoed",
+    "type": "related"
+  },
+  {
+    "source": "besluit-toegelaten-instellingen-volkshuisvesting",
+    "target": "woningwet",
+    "type": "related"
+  },
+  {
+    "source": "besluit-toegelaten-instellingen-volkshuisvesting",
+    "target": "regeling-toegelaten-instellingen-volkshuisvesting",
+    "type": "related"
+  },
+  {
+    "source": "bewoner",
+    "target": "huurder",
+    "type": "related"
+  },
+  {
+    "source": "bewoner",
+    "target": "huishouden",
+    "type": "related"
+  },
+  {
+    "source": "bewoner",
+    "target": "huishoudinkomen",
+    "type": "related"
+  },
+  {
+    "source": "bruto-huur",
+    "target": "huurprijs",
+    "type": "related"
+  },
+  {
+    "source": "bruto-huur",
+    "target": "servicekosten",
+    "type": "related"
+  },
+  {
+    "source": "bruto-huur",
+    "target": "rekenhuur",
+    "type": "related"
+  },
+  {
+    "source": "complex",
+    "target": "vastgoed",
+    "type": "broader"
+  },
+  {
+    "source": "complex",
+    "target": "woongelegenheid",
+    "type": "related"
+  },
+  {
+    "source": "complex",
+    "target": "verhuureenheid",
+    "type": "related"
+  },
+  {
+    "source": "de-prospectieve-informatie",
+    "target": "de-verantwoordingsinformatie",
+    "type": "related"
+  },
+  {
+    "source": "de-prospectieve-informatie",
+    "target": "regeling-toegelaten-instellingen-volkshuisvesting",
+    "type": "related"
+  },
+  {
+    "source": "de-verantwoordingsinformatie",
+    "target": "de-prospectieve-informatie",
+    "type": "related"
+  },
+  {
+    "source": "de-verantwoordingsinformatie",
+    "target": "regeling-toegelaten-instellingen-volkshuisvesting",
+    "type": "related"
+  },
+  {
+    "source": "de-verantwoordingsinformatie",
+    "target": "verhuureenheid",
+    "type": "related"
+  },
+  {
+    "source": "diensten-van-algemeen-economisch-belang",
+    "target": "niet-daeb",
+    "type": "related"
+  },
+  {
+    "source": "diensten-van-algemeen-economisch-belang",
+    "target": "sociale-huurwoning",
+    "type": "related"
+  },
+  {
+    "source": "diensten-van-algemeen-economisch-belang",
+    "target": "leefbaarheid",
+    "type": "related"
+  },
+  {
+    "source": "diensten-van-algemeen-economisch-belang",
+    "target": "passend-toewijzen",
+    "type": "related"
+  },
+  {
+    "source": "diensten-van-algemeen-economisch-belang",
+    "target": "inkomensgrens",
+    "type": "related"
+  },
+  {
+    "source": "doelgroep",
+    "target": "inkomensgrens",
+    "type": "related"
+  },
+  {
+    "source": "doelgroep",
+    "target": "passend-toewijzen",
+    "type": "related"
+  },
+  {
+    "source": "doelgroep",
+    "target": "huurtoeslag",
+    "type": "related"
+  },
+  {
+    "source": "doelgroep",
+    "target": "sociale-huurwoning",
+    "type": "related"
+  },
+  {
+    "source": "geliberaliseerde-huurwoning",
+    "target": "gereguleerde-huurwoning",
+    "type": "related"
+  },
+  {
+    "source": "geliberaliseerde-huurwoning",
+    "target": "niet-daeb",
+    "type": "related"
+  },
+  {
+    "source": "geliberaliseerde-huurwoning",
+    "target": "liberalisatiegrens",
+    "type": "related"
+  },
+  {
+    "source": "gereguleerde-huurwoning",
+    "target": "geliberaliseerde-huurwoning",
+    "type": "related"
+  },
+  {
+    "source": "gereguleerde-huurwoning",
+    "target": "woningwaarderingsstelsel",
+    "type": "related"
+  },
+  {
+    "source": "gereguleerde-huurwoning",
+    "target": "sociale-huurwoning",
+    "type": "related"
+  },
+  {
+    "source": "gereguleerde-huurwoning",
+    "target": "liberalisatiegrens",
+    "type": "related"
+  },
+  {
+    "source": "huishouden",
+    "target": "huishoudinkomen",
+    "type": "related"
+  },
+  {
+    "source": "huishouden",
+    "target": "woningzoekende",
+    "type": "related"
+  },
+  {
+    "source": "huishouden",
+    "target": "doelgroep",
+    "type": "related"
+  },
+  {
+    "source": "huishouden",
+    "target": "passend-toewijzen",
+    "type": "related"
+  },
+  {
+    "source": "huishoudinkomen",
+    "target": "huishouden",
+    "type": "related"
+  },
+  {
+    "source": "huishoudinkomen",
+    "target": "bewoner",
+    "type": "related"
+  },
+  {
+    "source": "huishoudinkomen",
+    "target": "inkomensgrens",
+    "type": "related"
+  },
+  {
+    "source": "huishoudinkomen",
+    "target": "inkomensafhankelijke-huurverhoging",
+    "type": "related"
+  },
+  {
+    "source": "huisvestingswet-2014",
+    "target": "woonruimte",
+    "type": "related"
+  },
+  {
+    "source": "huisvestingswet-2014",
+    "target": "woningzoekende",
+    "type": "related"
+  },
+  {
+    "source": "huisvestingswet-2014",
+    "target": "toewijzing",
+    "type": "related"
+  },
+  {
+    "source": "huurder",
+    "target": "huurovereenkomst",
+    "type": "related"
+  },
+  {
+    "source": "huurder",
+    "target": "verhuurder",
+    "type": "related"
+  },
+  {
+    "source": "huurder",
+    "target": "bewoner",
+    "type": "related"
+  },
+  {
+    "source": "huurder",
+    "target": "huishouden",
+    "type": "related"
+  },
+  {
+    "source": "huurovereenkomst",
+    "target": "huurder",
+    "type": "related"
+  },
+  {
+    "source": "huurovereenkomst",
+    "target": "verhuurder",
+    "type": "related"
+  },
+  {
+    "source": "huurovereenkomst",
+    "target": "huurprijs",
+    "type": "related"
+  },
+  {
+    "source": "huurovereenkomst",
+    "target": "woonruimte",
+    "type": "related"
+  },
+  {
+    "source": "huurovereenkomst",
+    "target": "toewijzing",
+    "type": "related"
+  },
+  {
+    "source": "huurprijs",
+    "target": "bruto-huur",
+    "type": "related"
+  },
+  {
+    "source": "huurprijs",
+    "target": "servicekosten",
+    "type": "related"
+  },
+  {
+    "source": "huurprijs",
+    "target": "maximale-huurprijs",
+    "type": "related"
+  },
+  {
+    "source": "huurprijs",
+    "target": "streefhuur",
+    "type": "related"
+  },
+  {
+    "source": "huurprijs",
+    "target": "huurverhoging",
+    "type": "related"
+  },
+  {
+    "source": "huurtoeslag",
+    "target": "rekenhuur",
+    "type": "related"
+  },
+  {
+    "source": "huurtoeslag",
+    "target": "aftoppingsgrens",
+    "type": "related"
+  },
+  {
+    "source": "huurtoeslag",
+    "target": "liberalisatiegrens",
+    "type": "related"
+  },
+  {
+    "source": "huurtoeslag",
+    "target": "passend-toewijzen",
+    "type": "related"
+  },
+  {
+    "source": "huurtoeslag",
+    "target": "doelgroep",
+    "type": "related"
+  },
+  {
+    "source": "huurverhoging",
+    "target": "inkomensafhankelijke-huurverhoging",
+    "type": "narrower"
+  },
+  {
+    "source": "huurverhoging",
+    "target": "huurprijs",
+    "type": "related"
+  },
+  {
+    "source": "inkomensafhankelijke-huurverhoging",
+    "target": "huurverhoging",
+    "type": "broader"
+  },
+  {
+    "source": "inkomensafhankelijke-huurverhoging",
+    "target": "huishoudinkomen",
+    "type": "related"
+  },
+  {
+    "source": "inkomensgrens",
+    "target": "huishoudinkomen",
+    "type": "related"
+  },
+  {
+    "source": "inkomensgrens",
+    "target": "doelgroep",
+    "type": "related"
+  },
+  {
+    "source": "inkomensgrens",
+    "target": "toewijzing",
+    "type": "related"
+  },
+  {
+    "source": "inkomensgrens",
+    "target": "sociale-huurwoning",
+    "type": "related"
+  },
+  {
+    "source": "leefbaarheid",
+    "target": "diensten-van-algemeen-economisch-belang",
+    "type": "related"
+  },
+  {
+    "source": "leefbaarheid",
+    "target": "prestatieafspraak",
+    "type": "related"
+  },
+  {
+    "source": "leefbaarheid",
+    "target": "volkshuisvestelijke-prestatie",
+    "type": "related"
+  },
+  {
+    "source": "leegstand",
+    "target": "verhuureenheid",
+    "type": "related"
+  },
+  {
+    "source": "leegstand",
+    "target": "mutatie",
+    "type": "related"
+  },
+  {
+    "source": "liberalisatiegrens",
+    "target": "gereguleerde-huurwoning",
+    "type": "related"
+  },
+  {
+    "source": "liberalisatiegrens",
+    "target": "geliberaliseerde-huurwoning",
+    "type": "related"
+  },
+  {
+    "source": "liberalisatiegrens",
+    "target": "maximale-huurprijs",
+    "type": "related"
+  },
+  {
+    "source": "liberalisatiegrens",
+    "target": "wet-betaalbare-huur",
+    "type": "related"
+  },
+  {
+    "source": "marktwaarde",
+    "target": "beleidswaarde",
+    "type": "related"
+  },
+  {
+    "source": "marktwaarde",
+    "target": "vastgoed",
+    "type": "related"
+  },
+  {
+    "source": "maximale-huurprijs",
+    "target": "woningwaarderingsstelsel",
+    "type": "related"
+  },
+  {
+    "source": "maximale-huurprijs",
+    "target": "streefhuur",
+    "type": "related"
+  },
+  {
+    "source": "maximale-huurprijs",
+    "target": "huurprijs",
+    "type": "related"
+  },
+  {
+    "source": "maximale-huurprijs",
+    "target": "wet-betaalbare-huur",
+    "type": "related"
+  },
+  {
+    "source": "mutatie",
+    "target": "verhuureenheid",
+    "type": "related"
+  },
+  {
+    "source": "mutatie",
+    "target": "huurovereenkomst",
+    "type": "related"
+  },
+  {
+    "source": "mutatie",
+    "target": "streefhuur",
+    "type": "related"
+  },
+  {
+    "source": "mutatie",
+    "target": "leegstand",
+    "type": "related"
+  },
+  {
+    "source": "mutatie",
+    "target": "toewijzing",
+    "type": "related"
+  },
+  {
+    "source": "niet-daeb",
+    "target": "diensten-van-algemeen-economisch-belang",
+    "type": "related"
+  },
+  {
+    "source": "niet-daeb",
+    "target": "geliberaliseerde-huurwoning",
+    "type": "related"
+  },
+  {
+    "source": "nieuwbouw",
+    "target": "vervangende-nieuwbouw",
+    "type": "narrower"
+  },
+  {
+    "source": "nieuwbouw",
+    "target": "sloop",
+    "type": "related"
+  },
+  {
+    "source": "onderhoud",
+    "target": "renovatie",
+    "type": "related"
+  },
+  {
+    "source": "onderhoud",
+    "target": "verduurzaming",
+    "type": "related"
+  },
+  {
+    "source": "onderhoud",
+    "target": "complex",
+    "type": "related"
+  },
+  {
+    "source": "onzelfstandige-woonruimte",
+    "target": "woonruimte",
+    "type": "broader"
+  },
+  {
+    "source": "onzelfstandige-woonruimte",
+    "target": "zelfstandige-woning",
+    "type": "related"
+  },
+  {
+    "source": "pand",
+    "target": "verblijfsobject",
+    "type": "related"
+  },
+  {
+    "source": "pand",
+    "target": "woning",
+    "type": "related"
+  },
+  {
+    "source": "pand",
+    "target": "vastgoed",
+    "type": "related"
+  },
+  {
+    "source": "passend-toewijzen",
+    "target": "passendheidstoets",
+    "type": "related"
+  },
+  {
+    "source": "passend-toewijzen",
+    "target": "huurtoeslag",
+    "type": "related"
+  },
+  {
+    "source": "passend-toewijzen",
+    "target": "aftoppingsgrens",
+    "type": "related"
+  },
+  {
+    "source": "passend-toewijzen",
+    "target": "doelgroep",
+    "type": "related"
+  },
+  {
+    "source": "passend-toewijzen",
+    "target": "toewijzing",
+    "type": "related"
+  },
+  {
+    "source": "passendheidstoets",
+    "target": "passend-toewijzen",
+    "type": "related"
+  },
+  {
+    "source": "passendheidstoets",
+    "target": "huishoudinkomen",
+    "type": "related"
+  },
+  {
+    "source": "passendheidstoets",
+    "target": "aftoppingsgrens",
+    "type": "related"
+  },
+  {
+    "source": "prestatieafspraak",
+    "target": "volkshuisvestelijke-prestatie",
+    "type": "related"
+  },
+  {
+    "source": "prestatieafspraak",
+    "target": "woningcorporatie",
+    "type": "related"
+  },
+  {
+    "source": "prestatieafspraak",
+    "target": "leefbaarheid",
+    "type": "related"
+  },
+  {
+    "source": "regeling-toegelaten-instellingen-volkshuisvesting",
+    "target": "besluit-toegelaten-instellingen-volkshuisvesting",
+    "type": "related"
+  },
+  {
+    "source": "regeling-toegelaten-instellingen-volkshuisvesting",
+    "target": "de-verantwoordingsinformatie",
+    "type": "related"
+  },
+  {
+    "source": "regeling-toegelaten-instellingen-volkshuisvesting",
+    "target": "de-prospectieve-informatie",
+    "type": "related"
+  },
+  {
+    "source": "regeling-toegelaten-instellingen-volkshuisvesting",
+    "target": "marktwaarde",
+    "type": "related"
+  },
+  {
+    "source": "rekenhuur",
+    "target": "huurtoeslag",
+    "type": "related"
+  },
+  {
+    "source": "rekenhuur",
+    "target": "huurprijs",
+    "type": "related"
+  },
+  {
+    "source": "rekenhuur",
+    "target": "servicekosten",
+    "type": "related"
+  },
+  {
+    "source": "rekenhuur",
+    "target": "aftoppingsgrens",
+    "type": "related"
+  },
+  {
+    "source": "renovatie",
+    "target": "onderhoud",
+    "type": "related"
+  },
+  {
+    "source": "renovatie",
+    "target": "verduurzaming",
+    "type": "related"
+  },
+  {
+    "source": "renovatie",
+    "target": "vervangende-nieuwbouw",
+    "type": "related"
+  },
+  {
+    "source": "servicekosten",
+    "target": "huurprijs",
+    "type": "related"
+  },
+  {
+    "source": "servicekosten",
+    "target": "bruto-huur",
+    "type": "related"
+  },
+  {
+    "source": "servicekosten",
+    "target": "rekenhuur",
+    "type": "related"
+  },
+  {
+    "source": "sloop",
+    "target": "vervangende-nieuwbouw",
+    "type": "related"
+  },
+  {
+    "source": "sloop",
+    "target": "nieuwbouw",
+    "type": "related"
+  },
+  {
+    "source": "sociale-huurwoning",
+    "target": "woning",
+    "type": "broader"
+  },
+  {
+    "source": "sociale-huurwoning",
+    "target": "diensten-van-algemeen-economisch-belang",
+    "type": "related"
+  },
+  {
+    "source": "sociale-huurwoning",
+    "target": "huurtoeslag",
+    "type": "related"
+  },
+  {
+    "source": "sociale-huurwoning",
+    "target": "gereguleerde-huurwoning",
+    "type": "related"
+  },
+  {
+    "source": "sociale-huurwoning",
+    "target": "doelgroep",
+    "type": "related"
+  },
+  {
+    "source": "streefhuur",
+    "target": "maximale-huurprijs",
+    "type": "related"
+  },
+  {
+    "source": "streefhuur",
+    "target": "mutatie",
+    "type": "related"
+  },
+  {
+    "source": "streefhuur",
+    "target": "huurprijs",
+    "type": "related"
+  },
+  {
+    "source": "streefhuur",
+    "target": "verhuureenheid",
+    "type": "related"
+  },
+  {
+    "source": "toewijzing",
+    "target": "passend-toewijzen",
+    "type": "related"
+  },
+  {
+    "source": "toewijzing",
+    "target": "woningzoekende",
+    "type": "related"
+  },
+  {
+    "source": "toewijzing",
+    "target": "inkomensgrens",
+    "type": "related"
+  },
+  {
+    "source": "toewijzing",
+    "target": "huurovereenkomst",
+    "type": "related"
+  },
+  {
+    "source": "vastgoed",
+    "target": "woongelegenheid",
+    "type": "narrower"
+  },
+  {
+    "source": "vastgoed",
+    "target": "complex",
+    "type": "narrower"
+  },
+  {
+    "source": "vastgoed",
+    "target": "verhuureenheid",
+    "type": "related"
+  },
+  {
+    "source": "vastgoed",
+    "target": "marktwaarde",
+    "type": "related"
+  },
+  {
+    "source": "vastgoed",
+    "target": "beleidswaarde",
+    "type": "related"
+  },
+  {
+    "source": "verblijfsobject",
+    "target": "pand",
+    "type": "related"
+  },
+  {
+    "source": "verblijfsobject",
+    "target": "woning",
+    "type": "related"
+  },
+  {
+    "source": "verblijfsobject",
+    "target": "zelfstandige-woning",
+    "type": "related"
+  },
+  {
+    "source": "verduurzaming",
+    "target": "renovatie",
+    "type": "related"
+  },
+  {
+    "source": "verduurzaming",
+    "target": "onderhoud",
+    "type": "related"
+  },
+  {
+    "source": "verduurzaming",
+    "target": "nieuwbouw",
+    "type": "related"
+  },
+  {
+    "source": "verhuurder",
+    "target": "woningcorporatie",
+    "type": "narrower"
+  },
+  {
+    "source": "verhuurder",
+    "target": "huurder",
+    "type": "related"
+  },
+  {
+    "source": "verhuurder",
+    "target": "huurovereenkomst",
+    "type": "related"
+  },
+  {
+    "source": "verhuureenheid",
+    "target": "woongelegenheid",
+    "type": "related"
+  },
+  {
+    "source": "verhuureenheid",
+    "target": "complex",
+    "type": "related"
+  },
+  {
+    "source": "verhuureenheid",
+    "target": "huurovereenkomst",
+    "type": "related"
+  },
+  {
+    "source": "verhuureenheid",
+    "target": "mutatie",
+    "type": "related"
+  },
+  {
+    "source": "verhuureenheid",
+    "target": "leegstand",
+    "type": "related"
+  },
+  {
+    "source": "vervangende-nieuwbouw",
+    "target": "nieuwbouw",
+    "type": "broader"
+  },
+  {
+    "source": "vervangende-nieuwbouw",
+    "target": "sloop",
+    "type": "related"
+  },
+  {
+    "source": "vervangende-nieuwbouw",
+    "target": "renovatie",
+    "type": "related"
+  },
+  {
+    "source": "volkshuisvestelijke-prestatie",
+    "target": "prestatieafspraak",
+    "type": "related"
+  },
+  {
+    "source": "volkshuisvestelijke-prestatie",
+    "target": "leefbaarheid",
+    "type": "related"
+  },
+  {
+    "source": "volkshuisvestelijke-prestatie",
+    "target": "woningcorporatie",
+    "type": "related"
+  },
+  {
+    "source": "wet-betaalbare-huur",
+    "target": "woningwaarderingsstelsel",
+    "type": "related"
+  },
+  {
+    "source": "wet-betaalbare-huur",
+    "target": "maximale-huurprijs",
+    "type": "related"
+  },
+  {
+    "source": "wet-betaalbare-huur",
+    "target": "gereguleerde-huurwoning",
+    "type": "related"
+  },
+  {
+    "source": "wet-betaalbare-huur",
+    "target": "liberalisatiegrens",
+    "type": "related"
+  },
+  {
+    "source": "woning",
+    "target": "woongelegenheid",
+    "type": "broader"
+  },
+  {
+    "source": "woning",
+    "target": "sociale-huurwoning",
+    "type": "narrower"
+  },
+  {
+    "source": "woning",
+    "target": "zelfstandige-woning",
+    "type": "narrower"
+  },
+  {
+    "source": "woning",
+    "target": "verblijfsobject",
+    "type": "related"
+  },
+  {
+    "source": "woningcorporatie",
+    "target": "verhuurder",
+    "type": "broader"
+  },
+  {
+    "source": "woningcorporatie",
+    "target": "woningwet",
+    "type": "related"
+  },
+  {
+    "source": "woningcorporatie",
+    "target": "diensten-van-algemeen-economisch-belang",
+    "type": "related"
+  },
+  {
+    "source": "woningcorporatie",
+    "target": "sociale-huurwoning",
+    "type": "related"
+  },
+  {
+    "source": "woningwaarderingsstelsel",
+    "target": "maximale-huurprijs",
+    "type": "related"
+  },
+  {
+    "source": "woningwaarderingsstelsel",
+    "target": "gereguleerde-huurwoning",
+    "type": "related"
+  },
+  {
+    "source": "woningwaarderingsstelsel",
+    "target": "liberalisatiegrens",
+    "type": "related"
+  },
+  {
+    "source": "woningwaarderingsstelsel",
+    "target": "wet-betaalbare-huur",
+    "type": "related"
+  },
+  {
+    "source": "woningwet",
+    "target": "besluit-toegelaten-instellingen-volkshuisvesting",
+    "type": "related"
+  },
+  {
+    "source": "woningwet",
+    "target": "woningcorporatie",
+    "type": "related"
+  },
+  {
+    "source": "woningwet",
+    "target": "prestatieafspraak",
+    "type": "related"
+  },
+  {
+    "source": "woningzoekende",
+    "target": "toewijzing",
+    "type": "related"
+  },
+  {
+    "source": "woningzoekende",
+    "target": "huishouden",
+    "type": "related"
+  },
+  {
+    "source": "woningzoekende",
+    "target": "woonruimte",
+    "type": "related"
+  },
+  {
+    "source": "woongelegenheid",
+    "target": "vastgoed",
+    "type": "broader"
+  },
+  {
+    "source": "woongelegenheid",
+    "target": "woning",
+    "type": "narrower"
+  },
+  {
+    "source": "woongelegenheid",
+    "target": "verhuureenheid",
+    "type": "related"
+  },
+  {
+    "source": "woonruimte",
+    "target": "zelfstandige-woning",
+    "type": "narrower"
+  },
+  {
+    "source": "woonruimte",
+    "target": "onzelfstandige-woonruimte",
+    "type": "narrower"
+  },
+  {
+    "source": "woonruimte",
+    "target": "woning",
+    "type": "related"
+  },
+  {
+    "source": "woonruimte",
+    "target": "huurovereenkomst",
+    "type": "related"
+  },
+  {
+    "source": "zelfstandige-woning",
+    "target": "woonruimte",
+    "type": "broader"
+  },
+  {
+    "source": "zelfstandige-woning",
+    "target": "woning",
+    "type": "broader"
+  },
+  {
+    "source": "zelfstandige-woning",
+    "target": "onzelfstandige-woonruimte",
+    "type": "related"
+  },
+  {
+    "source": "zelfstandige-woning",
+    "target": "huurtoeslag",
+    "type": "related"
+  },
+  {
+    "source": "zelfstandige-woning",
+    "target": "woningwaarderingsstelsel",
+    "type": "related"
+  }
+]

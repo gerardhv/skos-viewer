@@ -1,0 +1,278 @@
+{
+  "A": [
+    {
+      "slug": "aftoppingsgrens",
+      "prefLabel": "aftoppingsgrens"
+    }
+  ],
+  "B": [
+    {
+      "slug": "beleidswaarde",
+      "prefLabel": "beleidswaarde"
+    },
+    {
+      "slug": "besluit-toegelaten-instellingen-volkshuisvesting",
+      "prefLabel": "Besluit toegelaten instellingen volkshuisvesting"
+    },
+    {
+      "slug": "bewoner",
+      "prefLabel": "bewoner"
+    },
+    {
+      "slug": "bruto-huur",
+      "prefLabel": "bruto huur"
+    }
+  ],
+  "C": [
+    {
+      "slug": "complex",
+      "prefLabel": "complex"
+    }
+  ],
+  "D": [
+    {
+      "slug": "de-prospectieve-informatie",
+      "prefLabel": "de Prospectieve informatie"
+    },
+    {
+      "slug": "de-verantwoordingsinformatie",
+      "prefLabel": "de Verantwoordingsinformatie"
+    },
+    {
+      "slug": "diensten-van-algemeen-economisch-belang",
+      "prefLabel": "diensten van algemeen economisch belang"
+    },
+    {
+      "slug": "doelgroep",
+      "prefLabel": "doelgroep"
+    }
+  ],
+  "G": [
+    {
+      "slug": "geliberaliseerde-huurwoning",
+      "prefLabel": "geliberaliseerde huurwoning"
+    },
+    {
+      "slug": "gereguleerde-huurwoning",
+      "prefLabel": "gereguleerde huurwoning"
+    }
+  ],
+  "H": [
+    {
+      "slug": "huishouden",
+      "prefLabel": "huishouden"
+    },
+    {
+      "slug": "huishoudinkomen",
+      "prefLabel": "huishoudinkomen"
+    },
+    {
+      "slug": "huisvestingswet-2014",
+      "prefLabel": "Huisvestingswet 2014"
+    },
+    {
+      "slug": "huurder",
+      "prefLabel": "huurder"
+    },
+    {
+      "slug": "huurovereenkomst",
+      "prefLabel": "huurovereenkomst"
+    },
+    {
+      "slug": "huurprijs",
+      "prefLabel": "huurprijs"
+    },
+    {
+      "slug": "huurtoeslag",
+      "prefLabel": "huurtoeslag"
+    },
+    {
+      "slug": "huurverhoging",
+      "prefLabel": "huurverhoging"
+    }
+  ],
+  "I": [
+    {
+      "slug": "inkomensafhankelijke-huurverhoging",
+      "prefLabel": "inkomensafhankelijke huurverhoging"
+    },
+    {
+      "slug": "inkomensgrens",
+      "prefLabel": "inkomensgrens"
+    }
+  ],
+  "L": [
+    {
+      "slug": "leefbaarheid",
+      "prefLabel": "leefbaarheid"
+    },
+    {
+      "slug": "leegstand",
+      "prefLabel": "leegstand"
+    },
+    {
+      "slug": "liberalisatiegrens",
+      "prefLabel": "liberalisatiegrens"
+    }
+  ],
+  "M": [
+    {
+      "slug": "marktwaarde",
+      "prefLabel": "marktwaarde"
+    },
+    {
+      "slug": "maximale-huurprijs",
+      "prefLabel": "maximale huurprijs"
+    },
+    {
+      "slug": "mutatie",
+      "prefLabel": "mutatie"
+    }
+  ],
+  "N": [
+    {
+      "slug": "niet-daeb",
+      "prefLabel": "niet-DAEB"
+    },
+    {
+      "slug": "nieuwbouw",
+      "prefLabel": "nieuwbouw"
+    }
+  ],
+  "O": [
+    {
+      "slug": "onderhoud",
+      "prefLabel": "onderhoud"
+    },
+    {
+      "slug": "onzelfstandige-woonruimte",
+      "prefLabel": "onzelfstandige woonruimte"
+    }
+  ],
+  "P": [
+    {
+      "slug": "pand",
+      "prefLabel": "pand"
+    },
+    {
+      "slug": "passend-toewijzen",
+      "prefLabel": "passend toewijzen"
+    },
+    {
+      "slug": "passendheidstoets",
+      "prefLabel": "passendheidstoets"
+    },
+    {
+      "slug": "prestatieafspraak",
+      "prefLabel": "prestatieafspraak"
+    }
+  ],
+  "R": [
+    {
+      "slug": "regeling-toegelaten-instellingen-volkshuisvesting",
+      "prefLabel": "Regeling toegelaten instellingen volkshuisvesting"
+    },
+    {
+      "slug": "rekenhuur",
+      "prefLabel": "rekenhuur"
+    },
+    {
+      "slug": "renovatie",
+      "prefLabel": "renovatie"
+    }
+  ],
+  "S": [
+    {
+      "slug": "servicekosten",
+      "prefLabel": "servicekosten"
+    },
+    {
+      "slug": "sloop",
+      "prefLabel": "sloop"
+    },
+    {
+      "slug": "sociale-huurwoning",
+      "prefLabel": "sociale huurwoning"
+    },
+    {
+      "slug": "streefhuur",
+      "prefLabel": "streefhuur"
+    }
+  ],
+  "T": [
+    {
+      "slug": "toewijzing",
+      "prefLabel": "toewijzing"
+    }
+  ],
+  "V": [
+    {
+      "slug": "vastgoed",
+      "prefLabel": "vastgoed"
+    },
+    {
+      "slug": "verblijfsobject",
+      "prefLabel": "verblijfsobject"
+    },
+    {
+      "slug": "verduurzaming",
+      "prefLabel": "verduurzaming"
+    },
+    {
+      "slug": "verhuurder",
+      "prefLabel": "verhuurder"
+    },
+    {
+      "slug": "verhuureenheid",
+      "prefLabel": "verhuureenheid"
+    },
+    {
+      "slug": "vervangende-nieuwbouw",
+      "prefLabel": "vervangende nieuwbouw"
+    },
+    {
+      "slug": "volkshuisvestelijke-prestatie",
+      "prefLabel": "volkshuisvestelijke prestatie"
+    }
+  ],
+  "W": [
+    {
+      "slug": "wet-betaalbare-huur",
+      "prefLabel": "Wet betaalbare huur"
+    },
+    {
+      "slug": "woning",
+      "prefLabel": "woning"
+    },
+    {
+      "slug": "woningcorporatie",
+      "prefLabel": "woningcorporatie"
+    },
+    {
+      "slug": "woningwaarderingsstelsel",
+      "prefLabel": "woningwaarderingsstelsel"
+    },
+    {
+      "slug": "woningwet",
+      "prefLabel": "Woningwet"
+    },
+    {
+      "slug": "woningzoekende",
+      "prefLabel": "woningzoekende"
+    },
+    {
+      "slug": "woongelegenheid",
+      "prefLabel": "woongelegenheid"
+    },
+    {
+      "slug": "woonruimte",
+      "prefLabel": "woonruimte"
+    }
+  ],
+  "Z": [
+    {
+      "slug": "zelfstandige-woning",
+      "prefLabel": "zelfstandige woning"
+    }
+  ]
+}

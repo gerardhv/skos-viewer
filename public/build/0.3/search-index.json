@@ -1,0 +1,547 @@
+[
+  {
+    "id": "aftoppingsgrens",
+    "prefLabel": "aftoppingsgrens",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Huurprijsgrens uit de Wet op de huurtoeslag waarboven de huurtoeslag voor het meerdere wordt beperkt, afhankelijk van de omvang van het huishouden.",
+    "comment": "Er gelden verschillende aftoppingsgrenzen voor een- en tweepersoonshuishoudens en voor grotere huishoudens. De aftoppingsgrens is bepalend voor passend toewijzen."
+  },
+  {
+    "id": "beleidswaarde",
+    "prefLabel": "beleidswaarde",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Waarde van het vastgoed die uitgaat van voortgezette verhuur volgens het beleid van de corporatie, afgeleid van de marktwaarde door aanpassingen voor beschikbaarheid, betaalbaarheid, kwaliteit en beheer.",
+    "comment": "De beleidswaarde laat zien wat het vastgoed waard is als de corporatie haar maatschappelijke taak blijft uitvoeren, en is de basis voor het financiële toezicht op corporaties."
+  },
+  {
+    "id": "besluit-toegelaten-instellingen-volkshuisvesting",
+    "prefLabel": "Besluit toegelaten instellingen volkshuisvesting",
+    "altLabels": [
+      "BTIV",
+      "BTIV 2015"
+    ],
+    "hiddenLabels": [],
+    "definition": "Algemene maatregel van bestuur die de Woningwet nader uitwerkt, onder meer op het gebied van toewijzing, de scheiding tussen DAEB en niet-DAEB en de verantwoording.",
+    "comment": "Het BTIV bevat de gedetailleerde regels waar corporaties zich in de praktijk aan moeten houden, zoals de inkomensgrenzen en de norm voor passend toewijzen."
+  },
+  {
+    "id": "bewoner",
+    "prefLabel": "bewoner",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Huurder en degene die met instemming van de huurder zijn hoofdverblijf in de woongelegenheid heeft.",
+    "comment": "Alle mensen die met goedkeuring in de woning wonen zijn bewoners; de huurder is daar één van. Het begrip is onder meer van belang bij het bepalen van het huishoudinkomen."
+  },
+  {
+    "id": "bruto-huur",
+    "prefLabel": "bruto huur",
+    "altLabels": [
+      "brutohuur"
+    ],
+    "hiddenLabels": [],
+    "definition": "Som van de huurprijs en de servicekosten die de huurder periodiek aan de verhuurder betaalt.",
+    "comment": "De bruto huur is het totaalbedrag op het huuroverzicht van de huurder. Voor de berekening van de huurtoeslag geldt een aparte variant: de rekenhuur."
+  },
+  {
+    "id": "complex",
+    "prefLabel": "complex",
+    "altLabels": [
+      "wooncomplex"
+    ],
+    "hiddenLabels": [],
+    "definition": "Verzameling van in elkaars nabijheid gelegen woongelegenheden die financieel, administratief, qua bouwwijze of anderszins een eenheid vormen.",
+    "comment": "Corporaties gebruiken complexen als eenheid voor beheer, onderhoudsplanning, waardering en participatie van bewoners."
+  },
+  {
+    "id": "de-prospectieve-informatie",
+    "prefLabel": "de Prospectieve informatie",
+    "altLabels": [
+      "dPi"
+    ],
+    "hiddenLabels": [],
+    "definition": "Jaarlijkse prognose-informatie waarin een woningcorporatie de voornemens voor de komende vijf jaren aanlevert ten behoeve van het toezicht.",
+    "comment": "De dPi bevat de meerjarenbegroting en de voorgenomen activiteiten, zoals investeringen in nieuwbouw en verduurzaming."
+  },
+  {
+    "id": "de-verantwoordingsinformatie",
+    "prefLabel": "de Verantwoordingsinformatie",
+    "altLabels": [
+      "dVi"
+    ],
+    "hiddenLabels": [],
+    "definition": "Jaarlijkse verantwoordingsinformatie die een woningcorporatie over het afgelopen verslagjaar aanlevert ten behoeve van het toezicht.",
+    "comment": "De dVi bevat gegevens over onder meer het bezit, de financiën en de volkshuisvestelijke prestaties, volgens vaste definities en formats."
+  },
+  {
+    "id": "diensten-van-algemeen-economisch-belang",
+    "prefLabel": "diensten van algemeen economisch belang",
+    "altLabels": [
+      "DAEB"
+    ],
+    "hiddenLabels": [],
+    "definition": "Door de overheid aangewezen diensten met een publiek belang waarvoor woningcorporaties compensatie mogen ontvangen, waaronder het bouwen, verhuren en beheren van sociale huurwoningen, het beheren van bepaald maatschappelijk vastgoed en het bijdragen aan leefbaarheid.",
+    "comment": "DAEB is de kern van het werk van corporaties: betaalbaar wonen voor mensen met een laag inkomen. Voor deze taken gelden voordelen (zoals geborgde financiering) én verplichtingen (zoals toewijzingsregels). Corporaties moeten DAEB-activiteiten gescheiden verantwoorden van hun overige activiteiten."
+  },
+  {
+    "id": "doelgroep",
+    "prefLabel": "doelgroep",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Groep huishoudens waarop het volkshuisvestingsbeleid of een specifieke regeling zich richt.",
+    "comment": "Zonder nadere aanduiding wordt in de corporatiesector met de doelgroep meestal bedoeld: huishoudens met een inkomen tot de inkomensgrens voor sociale huurwoningen."
+  },
+  {
+    "id": "geliberaliseerde-huurwoning",
+    "prefLabel": "geliberaliseerde huurwoning",
+    "altLabels": [
+      "vrijesectorwoning",
+      "vrije-sectorhuurwoning"
+    ],
+    "hiddenLabels": [],
+    "definition": "Zelfstandige woning met een huurovereenkomst waarvan de aanvangshuurprijs boven de op de ingangsdatum geldende liberalisatiegrens lag.",
+    "comment": "Voor geliberaliseerde huurwoningen (vrije sector) gelden minder huurprijsregels; wel is de jaarlijkse huurverhoging sinds 2021 wettelijk gemaximeerd. Bij corporaties behoren deze woningen tot het niet-DAEB-bezit. Alleen zelfstandige woningen kunnen geliberaliseerd zijn."
+  },
+  {
+    "id": "gereguleerde-huurwoning",
+    "prefLabel": "gereguleerde huurwoning",
+    "altLabels": [
+      "gereguleerde woning"
+    ],
+    "hiddenLabels": [],
+    "definition": "Woonruimte waarvan de huurprijs onder de wettelijke huurprijsbescherming van het woningwaarderingsstelsel valt.",
+    "comment": "Voor gereguleerde huurwoningen gelden de maximale huurprijs en de wettelijke regels voor huurverhoging. Sinds de Wet betaalbare huur omvat de gereguleerde huursector twee segmenten: het lage segment (sociale huur) en het middensegment. Kamers, woonwagens en standplaatsen zijn altijd gereguleerd."
+  },
+  {
+    "id": "huishouden",
+    "prefLabel": "huishouden",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Alleenstaande, dan wel twee of meer personen die een duurzame gemeenschappelijke huishouding voeren of willen gaan voeren.",
+    "comment": "Een huishouden kan uit één persoon bestaan of uit meerdere personen die samen wonen en samen het dagelijks leven delen, zoals partners of een gezin."
+  },
+  {
+    "id": "huishoudinkomen",
+    "prefLabel": "huishoudinkomen",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Gezamenlijk verzamelinkomen van de bewoners van een woongelegenheid, met uitzondering van het inkomen van inwonende kinderen voor zover de wet dat bepaalt.",
+    "comment": "Het huishoudinkomen bepaalt onder meer of een huishouden binnen de inkomensgrens valt en of een inkomensafhankelijke huurverhoging mogelijk is."
+  },
+  {
+    "id": "huisvestingswet-2014",
+    "prefLabel": "Huisvestingswet 2014",
+    "altLabels": [
+      "Huisvestingswet"
+    ],
+    "hiddenLabels": [],
+    "definition": "Wet die gemeenten instrumenten geeft voor de verdeling van woonruimte en het beheer van de woonruimtevoorraad.",
+    "comment": "Op grond van deze wet kunnen gemeenten in een huisvestingsverordening regels stellen over wie voor welke woonruimte in aanmerking komt, bijvoorbeeld via vergunningen en urgentieregelingen."
+  },
+  {
+    "id": "huurder",
+    "prefLabel": "huurder",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Partij die op grond van een huurovereenkomst tegen betaling het gebruik van een woonruimte of andere onroerende zaak heeft.",
+    "comment": "De huurder is degene met wie de huurovereenkomst is gesloten. Medebewoners, zoals partners of kinderen, zijn bewoners maar zijn alleen huurder als zij (mede)ondertekenaar of wettelijk medehuurder zijn."
+  },
+  {
+    "id": "huurovereenkomst",
+    "prefLabel": "huurovereenkomst",
+    "altLabels": [
+      "huurcontract"
+    ],
+    "hiddenLabels": [],
+    "definition": "Overeenkomst waarbij de verhuurder zich verbindt aan de huurder een zaak of een gedeelte daarvan in gebruik te verstrekken en de huurder zich verbindt tot een tegenprestatie.",
+    "comment": "In de corporatiesector gaat het vrijwel altijd om de huur van woonruimte tegen betaling van een huurprijs. De huurovereenkomst legt de rechten en plichten van huurder en verhuurder vast."
+  },
+  {
+    "id": "huurprijs",
+    "prefLabel": "huurprijs",
+    "altLabels": [
+      "kale huur",
+      "netto huur",
+      "nettohuur"
+    ],
+    "hiddenLabels": [],
+    "definition": "Prijs die bij huur en verhuur is verschuldigd voor het enkele gebruik van de woonruimte, uitgedrukt in een bedrag per maand.",
+    "comment": "De huurprijs is de huur zonder servicekosten en zonder kosten voor nutsvoorzieningen. In de dagelijkse praktijk heet dit de kale huur of netto huur; de wettelijke term is huurprijs."
+  },
+  {
+    "id": "huurtoeslag",
+    "prefLabel": "huurtoeslag",
+    "altLabels": [
+      "huursubsidie"
+    ],
+    "hiddenLabels": [],
+    "definition": "Inkomensafhankelijke tegemoetkoming van het Rijk in de kosten van het huren van een woonruimte.",
+    "comment": "Huishoudens met een laag inkomen en een huur binnen de wettelijke grenzen kunnen huurtoeslag krijgen. De hoogte hangt af van inkomen, vermogen, huishoudsamenstelling en rekenhuur. De term huursubsidie is verouderd."
+  },
+  {
+    "id": "huurverhoging",
+    "prefLabel": "huurverhoging",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Verhoging van de huurprijs van een woonruimte binnen de wettelijke of contractuele grenzen.",
+    "comment": "De jaarlijkse huurverhoging is wettelijk gemaximeerd; de maximale percentages verschillen per segment (laag, midden, vrije sector) en worden jaarlijks bekendgemaakt in de circulaire Huurprijsbeleid. Daarnaast kan de huurprijs stijgen na woningverbetering."
+  },
+  {
+    "id": "inkomensafhankelijke-huurverhoging",
+    "prefLabel": "inkomensafhankelijke huurverhoging",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Extra huurverhoging die een verhuurder mag voorstellen voor huishoudens met een hoger inkomen dan de daarvoor geldende inkomensgrenzen.",
+    "comment": "Met deze verhoging betalen huishoudens met een hoger (midden)inkomen in een gereguleerde huurwoning een huur die beter past bij hun inkomen. Sinds 2022 is de extra verhoging een bedrag per maand, afhankelijk van de inkomenscategorie; de verhuurder gebruikt hiervoor een inkomensindicatie van de Belastingdienst."
+  },
+  {
+    "id": "inkomensgrens",
+    "prefLabel": "inkomensgrens",
+    "altLabels": [
+      "DAEB-inkomensgrens"
+    ],
+    "hiddenLabels": [],
+    "definition": "Bedrag van het huishoudinkomen tot waar een huishouden behoort tot de doelgroep voor toewijzing van sociale huurwoningen.",
+    "comment": "Corporaties moeten het overgrote deel van hun sociale huurwoningen toewijzen aan huishoudens met een inkomen tot deze grens. De bedragen worden jaarlijks vastgesteld en verschillen naar huishoudensomvang."
+  },
+  {
+    "id": "leefbaarheid",
+    "prefLabel": "leefbaarheid",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Mate waarin de woonomgeving aansluit bij de eisen en wensen van de bewoners.",
+    "comment": "Corporaties dragen bij aan leefbaarheid in buurten waar zij bezit hebben, bijvoorbeeld via een schone en veilige woonomgeving, ontmoetingsruimten en de inzet van huismeesters."
+  },
+  {
+    "id": "leegstand",
+    "prefLabel": "leegstand",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Periode waarin een verhuureenheid zonder huurder is.",
+    "comment": "Leegstand kan kort en gepland zijn (tijdens een mutatie of renovatie) of langdurig en ongewenst. Corporaties sturen op het beperken van leegstand en de bijbehorende huurderving."
+  },
+  {
+    "id": "liberalisatiegrens",
+    "prefLabel": "liberalisatiegrens",
+    "altLabels": [
+      "middenhuurgrens"
+    ],
+    "hiddenLabels": [],
+    "definition": "Huurprijsgrens die bepaalt of een huurovereenkomst voor een zelfstandige woning bij aanvang tot het gereguleerde dan wel het geliberaliseerde segment behoort.",
+    "comment": "Sinds de Wet betaalbare huur (1 juli 2024) is de liberalisatiegrens gelijk aan de maximale huurprijsgrens bij 186 punten van het woningwaarderingsstelsel en vormt zij de bovengrens van het middensegment. De grens wordt jaarlijks vastgesteld; de aanvangshuurprijs op de ingangsdatum van de huurovereenkomst is bepalend."
+  },
+  {
+    "id": "marktwaarde",
+    "prefLabel": "marktwaarde",
+    "altLabels": [
+      "marktwaarde in verhuurde staat"
+    ],
+    "hiddenLabels": [],
+    "definition": "Geschat bedrag waartegen vastgoed op de waardepeildatum zou worden overgedragen tussen een bereidwillige koper en een bereidwillige verkoper, in een marktconforme transactie en rekening houdend met de verhuurde staat.",
+    "comment": "Corporaties waarderen hun vastgoed in de jaarrekening op marktwaarde in verhuurde staat, volgens een voorgeschreven handboek."
+  },
+  {
+    "id": "maximale-huurprijs",
+    "prefLabel": "maximale huurprijs",
+    "altLabels": [
+      "maximaal redelijke huurprijs",
+      "maximale huurprijsgrens"
+    ],
+    "hiddenLabels": [],
+    "definition": "Hoogste huurprijs die voor een woonruimte gevraagd mag worden op grond van het puntentotaal van het woningwaarderingsstelsel.",
+    "comment": "Het aantal punten van de woning bepaalt via een wettelijke tabel de maximale huurprijs. Sinds de Wet betaalbare huur is deze grens dwingend voor het gereguleerde en het middenhuursegment."
+  },
+  {
+    "id": "mutatie",
+    "prefLabel": "mutatie",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Proces waarbij een verhuureenheid van huurder wisselt.",
+    "comment": "Een mutatie begint met de huuropzegging van de vertrekkende huurder en eindigt met de ingangsdatum van de nieuwe huurovereenkomst. Vaak vindt in die periode mutatieonderhoud plaats en wordt de huurprijs op de streefhuur gezet."
+  },
+  {
+    "id": "niet-daeb",
+    "prefLabel": "niet-DAEB",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Activiteiten en vastgoed van een woningcorporatie die buiten de diensten van algemeen economisch belang vallen, zoals geliberaliseerde huurwoningen en commercieel vastgoed.",
+    "comment": "Corporaties mogen beperkt niet-DAEB-activiteiten uitvoeren, zonder staatssteun en administratief of juridisch gescheiden van de DAEB-tak."
+  },
+  {
+    "id": "nieuwbouw",
+    "prefLabel": "nieuwbouw",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Realisatie van een nieuw gebouw of nieuwe woongelegenheden.",
+    "comment": "Nieuwbouw kan plaatsvinden op een onbebouwde locatie (uitbreiding) of op een locatie waar bestaand vastgoed is gesloopt (vervangende nieuwbouw)."
+  },
+  {
+    "id": "onderhoud",
+    "prefLabel": "onderhoud",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Werkzaamheden die de technische staat van vastgoed in stand houden of herstellen, met behoud van de bestaande kwaliteit.",
+    "comment": "Onderhoud varieert van het verhelpen van een klacht tot planmatig groot onderhoud. Verbetering van de woning valt onder renovatie of woningverbetering, met andere financiële en juridische gevolgen."
+  },
+  {
+    "id": "onzelfstandige-woonruimte",
+    "prefLabel": "onzelfstandige woonruimte",
+    "altLabels": [
+      "kamer",
+      "onzelfstandige eenheid"
+    ],
+    "hiddenLabels": [],
+    "definition": "Woonruimte waarbij de bewoner voor wezenlijke voorzieningen, zoals keuken of sanitair, gebruikmaakt van voorzieningen buiten de eigen woonruimte.",
+    "comment": "Kamers met gedeelde voorzieningen zijn de meest voorkomende vorm, bijvoorbeeld in studenten- of zorghuisvesting."
+  },
+  {
+    "id": "pand",
+    "prefLabel": "pand",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Kleinste bij de totstandkoming functioneel en bouwkundig-constructief zelfstandige eenheid die direct en duurzaam met de aarde is verbonden en betreedbaar en afsluitbaar is.",
+    "comment": "Pand is een begrip uit de Basisregistratie Adressen en Gebouwen (BAG). Een pand kan meerdere verblijfsobjecten bevatten, zoals een flatgebouw met appartementen."
+  },
+  {
+    "id": "passend-toewijzen",
+    "prefLabel": "passend toewijzen",
+    "altLabels": [
+      "passendheidsnorm"
+    ],
+    "hiddenLabels": [],
+    "definition": "Wettelijke verplichting van woningcorporaties om aan ten minste 95% van de huishoudens met recht op huurtoeslag een woning toe te wijzen met een huurprijs tot en met de voor dat huishouden toepasselijke aftoppingsgrens.",
+    "comment": "Mensen met een laag inkomen krijgen een woning waarvan de huur ook laag genoeg is, zodat de huurtoeslag voldoende compenseert. De corporatie controleert vóór de toewijzing of inkomen en huurprijs bij elkaar passen."
+  },
+  {
+    "id": "passendheidstoets",
+    "prefLabel": "passendheidstoets",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Controle voorafgaand aan de toewijzing of de huurprijs van de woning past bij het inkomen en de samenstelling van het huishouden.",
+    "comment": "Met de passendheidstoets voert de corporatie de norm voor passend toewijzen uit. Het huishouden levert daarvoor inkomensgegevens aan."
+  },
+  {
+    "id": "prestatieafspraak",
+    "prefLabel": "prestatieafspraak",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Afspraak tussen gemeente, woningcorporatie en huurdersorganisatie over de bijdrage van de corporatie aan de uitvoering van het gemeentelijke volkshuisvestingsbeleid.",
+    "comment": "Prestatieafspraken gaan bijvoorbeeld over nieuwbouwaantallen, betaalbaarheid, verduurzaming en leefbaarheid. Ze worden periodiek gemaakt en jaarlijks geactualiseerd. Op landelijk niveau bestaan daarnaast de Nationale prestatieafspraken tussen het Rijk, Aedes, de Woonbond en de VNG, die het kader vormen voor de lokale afspraken."
+  },
+  {
+    "id": "regeling-toegelaten-instellingen-volkshuisvesting",
+    "prefLabel": "Regeling toegelaten instellingen volkshuisvesting",
+    "altLabels": [
+      "RTIV"
+    ],
+    "hiddenLabels": [],
+    "definition": "Ministeriële regeling die het Besluit toegelaten instellingen volkshuisvesting nader uitwerkt, onder meer met voorschriften voor de verantwoordings- en prognose-informatie.",
+    "comment": "De RTIV bevat onder andere de modellen en definities voor de dVi en dPi en het handboek voor de marktwaardering van corporatievastgoed."
+  },
+  {
+    "id": "rekenhuur",
+    "prefLabel": "rekenhuur",
+    "altLabels": [
+      "subsidiabele huur"
+    ],
+    "hiddenLabels": [],
+    "definition": "Huurprijs vermeerderd met een wettelijk bepaald deel van de servicekosten, gebruikt voor de berekening van de huurtoeslag.",
+    "comment": "Alleen bepaalde servicekosten tellen (tot een maximum) mee voor de huurtoeslag, zoals schoonmaak en energie van gemeenschappelijke ruimten en de huismeester."
+  },
+  {
+    "id": "renovatie",
+    "prefLabel": "renovatie",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Gedeeltelijke vernieuwing van een gebouw of woonruimte door verandering of toevoeging, gericht op verbetering.",
+    "comment": "Bij renovatie verandert de woning wezenlijk, bijvoorbeeld door een nieuwe indeling, uitbreiding of ingrijpende verduurzaming. Dit onderscheidt renovatie van onderhoud, dat de bestaande kwaliteit in stand houdt."
+  },
+  {
+    "id": "servicekosten",
+    "prefLabel": "servicekosten",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Vergoeding voor de overige zaken en diensten die de verhuurder levert in verband met de bewoning van de woonruimte.",
+    "comment": "Voorbeelden zijn schoonmaak van gemeenschappelijke ruimten, glasbewassing en de huismeester. De verhuurder rekent servicekosten jaarlijks af op basis van de werkelijke kosten."
+  },
+  {
+    "id": "sloop",
+    "prefLabel": "sloop",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Afbraak van een gebouw of een deel daarvan.",
+    "comment": "Sloop vindt bij corporaties meestal plaats als onderdeel van vervangende nieuwbouw of herstructurering van een buurt."
+  },
+  {
+    "id": "sociale-huurwoning",
+    "prefLabel": "sociale huurwoning",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Huurwoning met een aanvangshuurprijs tot en met de maximale huurgrens voor de huurtoeslag (DAEB-huurgrens), bestemd voor huishoudens met een laag inkomen.",
+    "comment": "Sociale huurwoningen van corporaties behoren vrijwel altijd tot het DAEB-bezit en vormen het lage segment van de gereguleerde huursector. Voor toewijzing gelden inkomensgrenzen en de norm voor passend toewijzen."
+  },
+  {
+    "id": "streefhuur",
+    "prefLabel": "streefhuur",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Huurprijs waarnaar de woningcorporatie voor een verhuureenheid streeft op grond van haar huurbeleid.",
+    "comment": "De streefhuur wordt vaak uitgedrukt als percentage van de maximale huurprijs volgens het woningwaarderingsstelsel. Bij mutatie wordt de huurprijs van de nieuwe verhuring op de streefhuur gezet."
+  },
+  {
+    "id": "toewijzing",
+    "prefLabel": "toewijzing",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Besluit van een verhuurder om een woonruimte aan een specifieke woningzoekende te verhuren.",
+    "comment": "Bij corporaties verloopt toewijzing meestal via een woonruimteverdeelsysteem en gelden wettelijke regels, zoals inkomensgrenzen en passend toewijzen."
+  },
+  {
+    "id": "vastgoed",
+    "prefLabel": "vastgoed",
+    "altLabels": [
+      "onroerend goed",
+      "onroerende zaak"
+    ],
+    "hiddenLabels": [],
+    "definition": "Grond en de gebouwen en werken die duurzaam met de grond zijn verenigd.",
+    "comment": "Het vastgoed van een corporatie bestaat vooral uit woongelegenheden, met daarnaast bijvoorbeeld maatschappelijk vastgoed, bedrijfsruimten en parkeervoorzieningen."
+  },
+  {
+    "id": "verblijfsobject",
+    "prefLabel": "verblijfsobject",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Kleinste binnen één of meer panden gelegen en voor woon-, bedrijfsmatige of recreatieve doeleinden geschikte eenheid van gebruik, die ontsloten wordt via een eigen afsluitbare toegang, onderwerp kan zijn van goederenrechtelijke rechtshandelingen en in functioneel opzicht zelfstandig is.",
+    "comment": "Verblijfsobject is een begrip uit de Basisregistratie Adressen en Gebouwen (BAG). Een verblijfsobject met woonfunctie komt in de praktijk grotendeels overeen met een zelfstandige woning."
+  },
+  {
+    "id": "verduurzaming",
+    "prefLabel": "verduurzaming",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Geheel van maatregelen die het energiegebruik en de milieubelasting van vastgoed verminderen.",
+    "comment": "Voorbeelden zijn isolatie, zonnepanelen, warmtepompen en aansluiting op warmtenetten. Verduurzaming kan onderdeel zijn van onderhoud, renovatie of nieuwbouw."
+  },
+  {
+    "id": "verhuurder",
+    "prefLabel": "verhuurder",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Partij die op grond van een huurovereenkomst een woonruimte of andere onroerende zaak in gebruik geeft aan een huurder.",
+    "comment": "In de corporatiesector is de verhuurder meestal een woningcorporatie, maar het begrip omvat ook particuliere en commerciële verhuurders."
+  },
+  {
+    "id": "verhuureenheid",
+    "prefLabel": "verhuureenheid",
+    "altLabels": [
+      "verhuurbare eenheid",
+      "VHE",
+      "eenheid"
+    ],
+    "hiddenLabels": [],
+    "definition": "Kleinste eenheid van vastgoed die afzonderlijk verhuurd wordt of verhuurd kan worden en waarvoor een afzonderlijke huurovereenkomst kan worden gesloten.",
+    "comment": "Verhuureenheden zijn de teleenheid in de bedrijfsvoering en verantwoording van corporaties: woongelegenheden, maar ook parkeerplaatsen, bedrijfsruimten en maatschappelijk vastgoed."
+  },
+  {
+    "id": "vervangende-nieuwbouw",
+    "prefLabel": "vervangende nieuwbouw",
+    "altLabels": [
+      "sloop/nieuwbouw",
+      "sloop-nieuwbouw"
+    ],
+    "hiddenLabels": [],
+    "definition": "Nieuwbouw op een locatie waar bestaand vastgoed daarvoor wordt gesloopt.",
+    "comment": "Vervangende nieuwbouw is een veelgebruikte ingreep bij verouderd bezit: de bestaande woningen worden gesloopt en vervangen door nieuwe. Juridisch valt sloop met vervangende nieuwbouw onder het begrip renovatie (artikel 7:220 BW), met bijbehorende rechten voor huurders."
+  },
+  {
+    "id": "volkshuisvestelijke-prestatie",
+    "prefLabel": "volkshuisvestelijke prestatie",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Bijdrage van een woningcorporatie aan de volkshuisvestingsopgave, zoals de beschikbaarheid, betaalbaarheid en kwaliteit van woningen en de leefbaarheid van buurten.",
+    "comment": "Volkshuisvestelijke prestaties zijn het maatschappelijk resultaat van de corporatie. Ze worden vastgelegd in prestatieafspraken en verantwoord richting toezichthouders en belanghebbenden."
+  },
+  {
+    "id": "wet-betaalbare-huur",
+    "prefLabel": "Wet betaalbare huur",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Wet die de huurprijsbescherming uitbreidt naar het middenhuursegment en de toepassing van het woningwaarderingsstelsel dwingend maakt.",
+    "comment": "Sinds deze wet (1 juli 2024) geldt de maximale huurprijs op basis van het puntenstelsel voor een groter deel van de huurwoningen en zijn verhuurders verplicht zich daaraan te houden."
+  },
+  {
+    "id": "woning",
+    "prefLabel": "woning",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Afzonderlijk gedeelte van een gebouw, welk gedeelte tot bewoning is bestemd, met het daarbij behorende deel van de grond.",
+    "comment": "Een woning kan een heel gebouw beslaan (eengezinswoning) of een deel daarvan (appartement)."
+  },
+  {
+    "id": "woningcorporatie",
+    "prefLabel": "woningcorporatie",
+    "altLabels": [
+      "toegelaten instelling",
+      "corporatie"
+    ],
+    "hiddenLabels": [],
+    "definition": "Vereniging of stichting die zich ten doel stelt uitsluitend op het gebied van de volkshuisvesting werkzaam te zijn en die daartoe op grond van de Woningwet is toegelaten.",
+    "comment": "Een woningcorporatie bouwt, verhuurt en beheert vooral sociale huurwoningen voor mensen met een laag inkomen of een kwetsbare positie op de woningmarkt. In wet- en regelgeving heet een woningcorporatie een toegelaten instelling."
+  },
+  {
+    "id": "woningwaarderingsstelsel",
+    "prefLabel": "woningwaarderingsstelsel",
+    "altLabels": [
+      "WWS",
+      "puntenstelsel",
+      "puntensysteem"
+    ],
+    "hiddenLabels": [],
+    "definition": "Stelsel waarmee de kwaliteit van een woonruimte in punten wordt gewaardeerd en waarmee de maximale huurprijs van die woonruimte wordt bepaald.",
+    "comment": "Punten worden toegekend voor onder meer oppervlakte, voorzieningen, energieprestatie en WOZ-waarde. Het puntentotaal bepaalt de maximale huurprijs en of een woning tot het gereguleerde segment behoort."
+  },
+  {
+    "id": "woningwet",
+    "prefLabel": "Woningwet",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Wet die het stelsel van de volkshuisvesting regelt, waaronder de toelating van, het werkdomein van en het toezicht op woningcorporaties.",
+    "comment": "De Woningwet is de basiswet voor woningcorporaties. De wet bepaalt onder meer wat corporaties wel en niet mogen doen, hoe het toezicht is geregeld en hoe corporaties samenwerken met gemeenten en huurdersorganisaties."
+  },
+  {
+    "id": "woningzoekende",
+    "prefLabel": "woningzoekende",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Huishouden dat op zoek is naar woonruimte.",
+    "comment": "In woonruimteverdeelsystemen is een woningzoekende meestal een huishouden dat staat ingeschreven om voor een woning in aanmerking te komen."
+  },
+  {
+    "id": "woongelegenheid",
+    "prefLabel": "woongelegenheid",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Woning met de daarbij behorende grond of het daarbij behorende deel van de grond, dan wel een woonwagen of een standplaats.",
+    "comment": "Woongelegenheid is de verzamelterm uit de Woningwet voor alles wat een corporatie aan woonvormen verhuurt: woningen, woonwagens en standplaatsen."
+  },
+  {
+    "id": "woonruimte",
+    "prefLabel": "woonruimte",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Besloten ruimte die, al dan niet tezamen met een of meer andere ruimten, bestemd of geschikt is voor bewoning door een huishouden.",
+    "comment": "Woonruimte is breder dan woning: ook een kamer of een woonwagen is woonruimte. Het is de gangbare term in het huurrecht en de woonruimteverdeling."
+  },
+  {
+    "id": "zelfstandige-woning",
+    "prefLabel": "zelfstandige woning",
+    "altLabels": [
+      "zelfstandige woonruimte"
+    ],
+    "hiddenLabels": [],
+    "definition": "Woning met een eigen toegang, die de bewoner kan bewonen zonder daarbij afhankelijk te zijn van wezenlijke voorzieningen buiten de woning.",
+    "comment": "Wezenlijke voorzieningen zijn bijvoorbeeld keuken en sanitair. Zelfstandigheid is onder meer bepalend voor de huurtoeslag en het woningwaarderingsstelsel."
+  }
+]

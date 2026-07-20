@@ -1,0 +1,4 @@
+{
+  "comment": "Begrippenkader Corporatiesector — basisversie 0.2\nSKOS / NL-SBB — machineleesbare publicatie\nToelichting (NL-SBB-mapping): voorkeursterm = skos:prefLabel, synoniem = skos:altLabel,\ndefinitie = skos:definition, toelichting = rdfs:comment, gebruik = skos:scopeNote,\ngrondslag/bron = dct:source, relaties = skos:broader/narrower/related, mappings = skos:exactMatch/closeMatch.",
+  "note": "Basisversie 0.2, concept ter review. Wijzigingen t.o.v. 0.1: bronvermeldingen genormaliseerd in drie herkomstcategorieën (overgenomen uit / afgeleid van / eigen definitie); correcties rond de liberalisatiegrens na toetsing aan de circulaire Huurprijsbeleid MG 2026-01 en de Datawonen-begrippenlijst."
+}

@@ -1,0 +1,3647 @@
+[
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/aftoppingsgrens",
+    "slug": "aftoppingsgrens",
+    "prefLabel": "aftoppingsgrens",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Huurprijsgrens uit de Wet op de huurtoeslag waarboven de huurtoeslag voor het meerdere wordt beperkt, afhankelijk van de omvang van het huishouden.",
+    "comment": "Er gelden verschillende aftoppingsgrenzen voor een- en tweepersoonshuishoudens en voor grotere huishoudens. De aftoppingsgrens is bepalend voor passend toewijzen.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 20 Wet op de huurtoeslag (het artikel bevat een technisch rekenvoorschrift, geen definitie); actuele bedragen in de Datawonen-begrippenlijst",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurtoeslag",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passend-toewijzen",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/rekenhuur"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurtoeslag",
+        "slug": "huurtoeslag",
+        "prefLabel": "huurtoeslag",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passend-toewijzen",
+        "slug": "passend-toewijzen",
+        "prefLabel": "passend toewijzen",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/rekenhuur",
+        "slug": "rekenhuur",
+        "prefLabel": "rekenhuur",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/beleidswaarde",
+    "slug": "beleidswaarde",
+    "prefLabel": "beleidswaarde",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Waarde van het vastgoed die uitgaat van voortgezette verhuur volgens het beleid van de corporatie, afgeleid van de marktwaarde door aanpassingen voor beschikbaarheid, betaalbaarheid, kwaliteit en beheer.",
+    "comment": "De beleidswaarde laat zien wat het vastgoed waard is als de corporatie haar maatschappelijke taak blijft uitvoeren, en is de basis voor het financiële toezicht op corporaties.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van het Handboek modelmatig waarderen marktwaarde (bijlage bij de RTIV) en het gezamenlijk beoordelingskader van de financiële toezichthouders",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/marktwaarde",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vastgoed"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/marktwaarde",
+        "slug": "marktwaarde",
+        "prefLabel": "marktwaarde",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vastgoed",
+        "slug": "vastgoed",
+        "prefLabel": "vastgoed",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/besluit-toegelaten-instellingen-volkshuisvesting",
+    "slug": "besluit-toegelaten-instellingen-volkshuisvesting",
+    "prefLabel": "Besluit toegelaten instellingen volkshuisvesting",
+    "altLabels": [
+      "BTIV",
+      "BTIV 2015"
+    ],
+    "hiddenLabels": [],
+    "definition": "Algemene maatregel van bestuur die de Woningwet nader uitwerkt, onder meer op het gebied van toewijzing, de scheiding tussen DAEB en niet-DAEB en de verantwoording.",
+    "comment": "Het BTIV bevat de gedetailleerde regels waar corporaties zich in de praktijk aan moeten houden, zoals de inkomensgrenzen en de norm voor passend toewijzen.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van de tekst van het Besluit toegelaten instellingen volkshuisvesting 2015",
+        "category": "afgeleid",
+        "url": null
+      },
+      {
+        "text": null,
+        "category": null,
+        "url": "https://wetten.overheid.nl/BWBR0036702"
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningwet",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/regeling-toegelaten-instellingen-volkshuisvesting"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningwet",
+        "slug": "woningwet",
+        "prefLabel": "Woningwet",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/regeling-toegelaten-instellingen-volkshuisvesting",
+        "slug": "regeling-toegelaten-instellingen-volkshuisvesting",
+        "prefLabel": "Regeling toegelaten instellingen volkshuisvesting",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/bewoner",
+    "slug": "bewoner",
+    "prefLabel": "bewoner",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Huurder en degene die met instemming van de huurder zijn hoofdverblijf in de woongelegenheid heeft.",
+    "comment": "Alle mensen die met goedkeuring in de woning wonen zijn bewoners; de huurder is daar één van. Het begrip is onder meer van belang bij het bepalen van het huishoudinkomen.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Overgenomen uit artikel 1 Woningwet",
+        "category": "overgenomen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurder",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishouden",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishoudinkomen"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurder",
+        "slug": "huurder",
+        "prefLabel": "huurder",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishouden",
+        "slug": "huishouden",
+        "prefLabel": "huishouden",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishoudinkomen",
+        "slug": "huishoudinkomen",
+        "prefLabel": "huishoudinkomen",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/bruto-huur",
+    "slug": "bruto-huur",
+    "prefLabel": "bruto huur",
+    "altLabels": [
+      "brutohuur"
+    ],
+    "hiddenLabels": [],
+    "definition": "Som van de huurprijs en de servicekosten die de huurder periodiek aan de verhuurder betaalt.",
+    "comment": "De bruto huur is het totaalbedrag op het huuroverzicht van de huurder. Voor de berekening van de huurtoeslag geldt een aparte variant: de rekenhuur.",
+    "scopeNote": "In VERA omvat het attribuut brutohuur alle huurcomponenten inclusief eventuele btw, zoals servicekosten en energiekosten.",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector; het VERA-attribuut brutohuur is meegewogen en is ruimer afgebakend",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurprijs",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/servicekosten",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/rekenhuur"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurprijs",
+        "slug": "huurprijs",
+        "prefLabel": "huurprijs",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/servicekosten",
+        "slug": "servicekosten",
+        "prefLabel": "servicekosten",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/rekenhuur",
+        "slug": "rekenhuur",
+        "prefLabel": "rekenhuur",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/complex",
+    "slug": "complex",
+    "prefLabel": "complex",
+    "altLabels": [
+      "wooncomplex"
+    ],
+    "hiddenLabels": [],
+    "definition": "Verzameling van in elkaars nabijheid gelegen woongelegenheden die financieel, administratief, qua bouwwijze of anderszins een eenheid vormen.",
+    "comment": "Corporaties gebruiken complexen als eenheid voor beheer, onderhoudsplanning, waardering en participatie van bewoners.",
+    "scopeNote": "De wettelijke definitie komt uit het overlegrecht van huurders. In de bedrijfsvoering hanteren corporaties eigen complexindelingen (administratief, technisch of financieel), die per corporatie en per doel kunnen verschillen.",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Overgenomen uit artikel 1, eerste lid, Wet op het overleg huurders verhuurder",
+        "category": "overgenomen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": false,
+    "broader": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vastgoed"
+    ],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woongelegenheid",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuureenheid"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vastgoed",
+        "slug": "vastgoed",
+        "prefLabel": "vastgoed",
+        "internal": true
+      }
+    ],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woongelegenheid",
+        "slug": "woongelegenheid",
+        "prefLabel": "woongelegenheid",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuureenheid",
+        "slug": "verhuureenheid",
+        "prefLabel": "verhuureenheid",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/de-prospectieve-informatie",
+    "slug": "de-prospectieve-informatie",
+    "prefLabel": "de Prospectieve informatie",
+    "altLabels": [
+      "dPi"
+    ],
+    "hiddenLabels": [],
+    "definition": "Jaarlijkse prognose-informatie waarin een woningcorporatie de voornemens voor de komende vijf jaren aanlevert ten behoeve van het toezicht.",
+    "comment": "De dPi bevat de meerjarenbegroting en de voorgenomen activiteiten, zoals investeringen in nieuwbouw en verduurzaming.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van de Regeling toegelaten instellingen volkshuisvesting; ondersteunende bronnen: Datawonen-begrippenlijst en Aedes-benchmark",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/de-verantwoordingsinformatie",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/regeling-toegelaten-instellingen-volkshuisvesting"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/de-verantwoordingsinformatie",
+        "slug": "de-verantwoordingsinformatie",
+        "prefLabel": "de Verantwoordingsinformatie",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/regeling-toegelaten-instellingen-volkshuisvesting",
+        "slug": "regeling-toegelaten-instellingen-volkshuisvesting",
+        "prefLabel": "Regeling toegelaten instellingen volkshuisvesting",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/de-verantwoordingsinformatie",
+    "slug": "de-verantwoordingsinformatie",
+    "prefLabel": "de Verantwoordingsinformatie",
+    "altLabels": [
+      "dVi"
+    ],
+    "hiddenLabels": [],
+    "definition": "Jaarlijkse verantwoordingsinformatie die een woningcorporatie over het afgelopen verslagjaar aanlevert ten behoeve van het toezicht.",
+    "comment": "De dVi bevat gegevens over onder meer het bezit, de financiën en de volkshuisvestelijke prestaties, volgens vaste definities en formats.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van de Regeling toegelaten instellingen volkshuisvesting; ondersteunende bron: Datawonen-begrippenlijst",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/de-prospectieve-informatie",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/regeling-toegelaten-instellingen-volkshuisvesting",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuureenheid"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/de-prospectieve-informatie",
+        "slug": "de-prospectieve-informatie",
+        "prefLabel": "de Prospectieve informatie",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/regeling-toegelaten-instellingen-volkshuisvesting",
+        "slug": "regeling-toegelaten-instellingen-volkshuisvesting",
+        "prefLabel": "Regeling toegelaten instellingen volkshuisvesting",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuureenheid",
+        "slug": "verhuureenheid",
+        "prefLabel": "verhuureenheid",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/diensten-van-algemeen-economisch-belang",
+    "slug": "diensten-van-algemeen-economisch-belang",
+    "prefLabel": "diensten van algemeen economisch belang",
+    "altLabels": [
+      "DAEB"
+    ],
+    "hiddenLabels": [],
+    "definition": "Door de overheid aangewezen diensten met een publiek belang waarvoor woningcorporaties compensatie mogen ontvangen, waaronder het bouwen, verhuren en beheren van sociale huurwoningen, het beheren van bepaald maatschappelijk vastgoed en het bijdragen aan leefbaarheid.",
+    "comment": "DAEB is de kern van het werk van corporaties: betaalbaar wonen voor mensen met een laag inkomen. Voor deze taken gelden voordelen (zoals geborgde financiering) én verplichtingen (zoals toewijzingsregels). Corporaties moeten DAEB-activiteiten gescheiden verantwoorden van hun overige activiteiten.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 1 en artikel 47 Woningwet en Besluit 2012/21/EU van de Europese Commissie; ondersteunende bron: Datawonen-begrippenlijst",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/niet-daeb",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sociale-huurwoning",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/leefbaarheid",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passend-toewijzen",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/inkomensgrens"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/niet-daeb",
+        "slug": "niet-daeb",
+        "prefLabel": "niet-DAEB",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sociale-huurwoning",
+        "slug": "sociale-huurwoning",
+        "prefLabel": "sociale huurwoning",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/leefbaarheid",
+        "slug": "leefbaarheid",
+        "prefLabel": "leefbaarheid",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passend-toewijzen",
+        "slug": "passend-toewijzen",
+        "prefLabel": "passend toewijzen",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/inkomensgrens",
+        "slug": "inkomensgrens",
+        "prefLabel": "inkomensgrens",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/doelgroep",
+    "slug": "doelgroep",
+    "prefLabel": "doelgroep",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Groep huishoudens waarop het volkshuisvestingsbeleid of een specifieke regeling zich richt.",
+    "comment": "Zonder nadere aanduiding wordt in de corporatiesector met de doelgroep meestal bedoeld: huishoudens met een inkomen tot de inkomensgrens voor sociale huurwoningen.",
+    "scopeNote": "De afbakening verschilt per regeling: de doelgroep voor toewijzing van DAEB-woongelegenheden (inkomensgrens), de doelgroep voor huurtoeslag en de doelgroep voor passend toewijzen zijn verschillende, deels overlappende groepen. Benoem in teksten welke afbakening is bedoeld.",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/inkomensgrens",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passend-toewijzen",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurtoeslag",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sociale-huurwoning"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/inkomensgrens",
+        "slug": "inkomensgrens",
+        "prefLabel": "inkomensgrens",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passend-toewijzen",
+        "slug": "passend-toewijzen",
+        "prefLabel": "passend toewijzen",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurtoeslag",
+        "slug": "huurtoeslag",
+        "prefLabel": "huurtoeslag",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sociale-huurwoning",
+        "slug": "sociale-huurwoning",
+        "prefLabel": "sociale huurwoning",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/geliberaliseerde-huurwoning",
+    "slug": "geliberaliseerde-huurwoning",
+    "prefLabel": "geliberaliseerde huurwoning",
+    "altLabels": [
+      "vrijesectorwoning",
+      "vrije-sectorhuurwoning"
+    ],
+    "hiddenLabels": [],
+    "definition": "Zelfstandige woning met een huurovereenkomst waarvan de aanvangshuurprijs boven de op de ingangsdatum geldende liberalisatiegrens lag.",
+    "comment": "Voor geliberaliseerde huurwoningen (vrije sector) gelden minder huurprijsregels; wel is de jaarlijkse huurverhoging sinds 2021 wettelijk gemaximeerd. Bij corporaties behoren deze woningen tot het niet-DAEB-bezit. Alleen zelfstandige woningen kunnen geliberaliseerd zijn.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 7:247 Burgerlijk Wetboek; toepassingsregels volgens de circulaire Huurprijsbeleid (MG)",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/gereguleerde-huurwoning",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/niet-daeb",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/liberalisatiegrens"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/gereguleerde-huurwoning",
+        "slug": "gereguleerde-huurwoning",
+        "prefLabel": "gereguleerde huurwoning",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/niet-daeb",
+        "slug": "niet-daeb",
+        "prefLabel": "niet-DAEB",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/liberalisatiegrens",
+        "slug": "liberalisatiegrens",
+        "prefLabel": "liberalisatiegrens",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/gereguleerde-huurwoning",
+    "slug": "gereguleerde-huurwoning",
+    "prefLabel": "gereguleerde huurwoning",
+    "altLabels": [
+      "gereguleerde woning"
+    ],
+    "hiddenLabels": [],
+    "definition": "Woonruimte waarvan de huurprijs onder de wettelijke huurprijsbescherming van het woningwaarderingsstelsel valt.",
+    "comment": "Voor gereguleerde huurwoningen gelden de maximale huurprijs en de wettelijke regels voor huurverhoging. Sinds de Wet betaalbare huur omvat de gereguleerde huursector twee segmenten: het lage segment (sociale huur) en het middensegment. Kamers, woonwagens en standplaatsen zijn altijd gereguleerd.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van Burgerlijk Wetboek, boek 7, titel 4, afdeling 5, en de Wet betaalbare huur; segmentindeling volgens de circulaire Huurprijsbeleid (MG)",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/geliberaliseerde-huurwoning",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningwaarderingsstelsel",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sociale-huurwoning",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/liberalisatiegrens"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/geliberaliseerde-huurwoning",
+        "slug": "geliberaliseerde-huurwoning",
+        "prefLabel": "geliberaliseerde huurwoning",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningwaarderingsstelsel",
+        "slug": "woningwaarderingsstelsel",
+        "prefLabel": "woningwaarderingsstelsel",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sociale-huurwoning",
+        "slug": "sociale-huurwoning",
+        "prefLabel": "sociale huurwoning",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/liberalisatiegrens",
+        "slug": "liberalisatiegrens",
+        "prefLabel": "liberalisatiegrens",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishouden",
+    "slug": "huishouden",
+    "prefLabel": "huishouden",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Alleenstaande, dan wel twee of meer personen die een duurzame gemeenschappelijke huishouding voeren of willen gaan voeren.",
+    "comment": "Een huishouden kan uit één persoon bestaan of uit meerdere personen die samen wonen en samen het dagelijks leven delen, zoals partners of een gezin.",
+    "scopeNote": "De precieze afbakening verschilt per regeling. Voor de huurtoeslag telt bijvoorbeeld de samenstelling volgens de Wet op de huurtoeslag; huisvestingsverordeningen en het BTIV kennen eigen toepassingen. Controleer bij gebruik in een specifieke context welke afbakening geldt.",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector, aansluitend bij formuleringen in huisvestingsverordeningen; de Wet op de huurtoeslag en het BTIV kennen eigen afbakeningen",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishoudinkomen",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningzoekende",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/doelgroep",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passend-toewijzen"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishoudinkomen",
+        "slug": "huishoudinkomen",
+        "prefLabel": "huishoudinkomen",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningzoekende",
+        "slug": "woningzoekende",
+        "prefLabel": "woningzoekende",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/doelgroep",
+        "slug": "doelgroep",
+        "prefLabel": "doelgroep",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passend-toewijzen",
+        "slug": "passend-toewijzen",
+        "prefLabel": "passend toewijzen",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishoudinkomen",
+    "slug": "huishoudinkomen",
+    "prefLabel": "huishoudinkomen",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Gezamenlijk verzamelinkomen van de bewoners van een woongelegenheid, met uitzondering van het inkomen van inwonende kinderen voor zover de wet dat bepaalt.",
+    "comment": "Het huishoudinkomen bepaalt onder meer of een huishouden binnen de inkomensgrens valt en of een inkomensafhankelijke huurverhoging mogelijk is.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 1 Woningwet (vereenvoudigde formulering)",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishouden",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/bewoner",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/inkomensgrens",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/inkomensafhankelijke-huurverhoging"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishouden",
+        "slug": "huishouden",
+        "prefLabel": "huishouden",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/bewoner",
+        "slug": "bewoner",
+        "prefLabel": "bewoner",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/inkomensgrens",
+        "slug": "inkomensgrens",
+        "prefLabel": "inkomensgrens",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/inkomensafhankelijke-huurverhoging",
+        "slug": "inkomensafhankelijke-huurverhoging",
+        "prefLabel": "inkomensafhankelijke huurverhoging",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huisvestingswet-2014",
+    "slug": "huisvestingswet-2014",
+    "prefLabel": "Huisvestingswet 2014",
+    "altLabels": [
+      "Huisvestingswet"
+    ],
+    "hiddenLabels": [],
+    "definition": "Wet die gemeenten instrumenten geeft voor de verdeling van woonruimte en het beheer van de woonruimtevoorraad.",
+    "comment": "Op grond van deze wet kunnen gemeenten in een huisvestingsverordening regels stellen over wie voor welke woonruimte in aanmerking komt, bijvoorbeeld via vergunningen en urgentieregelingen.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van de wettekst van de Huisvestingswet 2014",
+        "category": "afgeleid",
+        "url": null
+      },
+      {
+        "text": null,
+        "category": null,
+        "url": "https://wetten.overheid.nl/BWBR0035303"
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woonruimte",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningzoekende",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/toewijzing"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woonruimte",
+        "slug": "woonruimte",
+        "prefLabel": "woonruimte",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningzoekende",
+        "slug": "woningzoekende",
+        "prefLabel": "woningzoekende",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/toewijzing",
+        "slug": "toewijzing",
+        "prefLabel": "toewijzing",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurder",
+    "slug": "huurder",
+    "prefLabel": "huurder",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Partij die op grond van een huurovereenkomst tegen betaling het gebruik van een woonruimte of andere onroerende zaak heeft.",
+    "comment": "De huurder is degene met wie de huurovereenkomst is gesloten. Medebewoners, zoals partners of kinderen, zijn bewoners maar zijn alleen huurder als zij (mede)ondertekenaar of wettelijk medehuurder zijn.",
+    "scopeNote": "Sectorale wetgeving definieert huurder niet zelfstandig; de betekenis volgt uit het huurrecht. De Woningwet rekent voor bepaalde toepassingen ook de onderhuurder die met toestemming van de corporatie huurt tot de huurders (artikel 1 Woningwet).",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 7:201 Burgerlijk Wetboek; artikel 1 Woningwet meegewogen voor de positie van de onderhuurder",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurovereenkomst",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuurder",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/bewoner",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishouden"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurovereenkomst",
+        "slug": "huurovereenkomst",
+        "prefLabel": "huurovereenkomst",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuurder",
+        "slug": "verhuurder",
+        "prefLabel": "verhuurder",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/bewoner",
+        "slug": "bewoner",
+        "prefLabel": "bewoner",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishouden",
+        "slug": "huishouden",
+        "prefLabel": "huishouden",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurovereenkomst",
+    "slug": "huurovereenkomst",
+    "prefLabel": "huurovereenkomst",
+    "altLabels": [
+      "huurcontract"
+    ],
+    "hiddenLabels": [],
+    "definition": "Overeenkomst waarbij de verhuurder zich verbindt aan de huurder een zaak of een gedeelte daarvan in gebruik te verstrekken en de huurder zich verbindt tot een tegenprestatie.",
+    "comment": "In de corporatiesector gaat het vrijwel altijd om de huur van woonruimte tegen betaling van een huurprijs. De huurovereenkomst legt de rechten en plichten van huurder en verhuurder vast.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Overgenomen uit artikel 7:201 Burgerlijk Wetboek (vrijwel letterlijk)",
+        "category": "overgenomen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurder",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuurder",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurprijs",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woonruimte",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/toewijzing"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurder",
+        "slug": "huurder",
+        "prefLabel": "huurder",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuurder",
+        "slug": "verhuurder",
+        "prefLabel": "verhuurder",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurprijs",
+        "slug": "huurprijs",
+        "prefLabel": "huurprijs",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woonruimte",
+        "slug": "woonruimte",
+        "prefLabel": "woonruimte",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/toewijzing",
+        "slug": "toewijzing",
+        "prefLabel": "toewijzing",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurprijs",
+    "slug": "huurprijs",
+    "prefLabel": "huurprijs",
+    "altLabels": [
+      "kale huur",
+      "netto huur",
+      "nettohuur"
+    ],
+    "hiddenLabels": [],
+    "definition": "Prijs die bij huur en verhuur is verschuldigd voor het enkele gebruik van de woonruimte, uitgedrukt in een bedrag per maand.",
+    "comment": "De huurprijs is de huur zonder servicekosten en zonder kosten voor nutsvoorzieningen. In de dagelijkse praktijk heet dit de kale huur of netto huur; de wettelijke term is huurprijs.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Overgenomen uit artikel 7:237, tweede lid, Burgerlijk Wetboek en artikel 1 Woningwet (samengevoegde formulering); ondersteunende bron: Datawonen-begrippenlijst (kale huurprijs)",
+        "category": "overgenomen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/bruto-huur",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/servicekosten",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/maximale-huurprijs",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/streefhuur",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurverhoging"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/bruto-huur",
+        "slug": "bruto-huur",
+        "prefLabel": "bruto huur",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/servicekosten",
+        "slug": "servicekosten",
+        "prefLabel": "servicekosten",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/maximale-huurprijs",
+        "slug": "maximale-huurprijs",
+        "prefLabel": "maximale huurprijs",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/streefhuur",
+        "slug": "streefhuur",
+        "prefLabel": "streefhuur",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurverhoging",
+        "slug": "huurverhoging",
+        "prefLabel": "huurverhoging",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurtoeslag",
+    "slug": "huurtoeslag",
+    "prefLabel": "huurtoeslag",
+    "altLabels": [
+      "huursubsidie"
+    ],
+    "hiddenLabels": [],
+    "definition": "Inkomensafhankelijke tegemoetkoming van het Rijk in de kosten van het huren van een woonruimte.",
+    "comment": "Huishoudens met een laag inkomen en een huur binnen de wettelijke grenzen kunnen huurtoeslag krijgen. De hoogte hangt af van inkomen, vermogen, huishoudsamenstelling en rekenhuur. De term huursubsidie is verouderd.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 1 Wet op de huurtoeslag; ondersteunende bron: Datawonen-begrippenlijst",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/rekenhuur",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/aftoppingsgrens",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/liberalisatiegrens",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passend-toewijzen",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/doelgroep"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/rekenhuur",
+        "slug": "rekenhuur",
+        "prefLabel": "rekenhuur",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/aftoppingsgrens",
+        "slug": "aftoppingsgrens",
+        "prefLabel": "aftoppingsgrens",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/liberalisatiegrens",
+        "slug": "liberalisatiegrens",
+        "prefLabel": "liberalisatiegrens",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passend-toewijzen",
+        "slug": "passend-toewijzen",
+        "prefLabel": "passend toewijzen",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/doelgroep",
+        "slug": "doelgroep",
+        "prefLabel": "doelgroep",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurverhoging",
+    "slug": "huurverhoging",
+    "prefLabel": "huurverhoging",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Verhoging van de huurprijs van een woonruimte binnen de wettelijke of contractuele grenzen.",
+    "comment": "De jaarlijkse huurverhoging is wettelijk gemaximeerd; de maximale percentages verschillen per segment (laag, midden, vrije sector) en worden jaarlijks bekendgemaakt in de circulaire Huurprijsbeleid. Daarnaast kan de huurprijs stijgen na woningverbetering.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector; wettelijk kader in Burgerlijk Wetboek, boek 7, titel 4, afdeling 5, en artikel 10 Uitvoeringswet huurprijzen woonruimte; jaarlijkse parameters in de circulaire Huurprijsbeleid (MG)",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/inkomensafhankelijke-huurverhoging"
+    ],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurprijs"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/inkomensafhankelijke-huurverhoging",
+        "slug": "inkomensafhankelijke-huurverhoging",
+        "prefLabel": "inkomensafhankelijke huurverhoging",
+        "internal": true
+      }
+    ],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurprijs",
+        "slug": "huurprijs",
+        "prefLabel": "huurprijs",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/inkomensafhankelijke-huurverhoging",
+    "slug": "inkomensafhankelijke-huurverhoging",
+    "prefLabel": "inkomensafhankelijke huurverhoging",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Extra huurverhoging die een verhuurder mag voorstellen voor huishoudens met een hoger inkomen dan de daarvoor geldende inkomensgrenzen.",
+    "comment": "Met deze verhoging betalen huishoudens met een hoger (midden)inkomen in een gereguleerde huurwoning een huur die beter past bij hun inkomen. Sinds 2022 is de extra verhoging een bedrag per maand, afhankelijk van de inkomenscategorie; de verhuurder gebruikt hiervoor een inkomensindicatie van de Belastingdienst.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 7:252a Burgerlijk Wetboek; methodiek en bedragen volgens de circulaire Huurprijsbeleid (MG) en de Datawonen-begrippenlijst",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": false,
+    "broader": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurverhoging"
+    ],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishoudinkomen"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurverhoging",
+        "slug": "huurverhoging",
+        "prefLabel": "huurverhoging",
+        "internal": true
+      }
+    ],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishoudinkomen",
+        "slug": "huishoudinkomen",
+        "prefLabel": "huishoudinkomen",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/inkomensgrens",
+    "slug": "inkomensgrens",
+    "prefLabel": "inkomensgrens",
+    "altLabels": [
+      "DAEB-inkomensgrens"
+    ],
+    "hiddenLabels": [],
+    "definition": "Bedrag van het huishoudinkomen tot waar een huishouden behoort tot de doelgroep voor toewijzing van sociale huurwoningen.",
+    "comment": "Corporaties moeten het overgrote deel van hun sociale huurwoningen toewijzen aan huishoudens met een inkomen tot deze grens. De bedragen worden jaarlijks vastgesteld en verschillen naar huishoudensomvang.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 1 en artikel 48 Woningwet en artikel 16 Besluit toegelaten instellingen volkshuisvesting",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishoudinkomen",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/doelgroep",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/toewijzing",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sociale-huurwoning"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishoudinkomen",
+        "slug": "huishoudinkomen",
+        "prefLabel": "huishoudinkomen",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/doelgroep",
+        "slug": "doelgroep",
+        "prefLabel": "doelgroep",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/toewijzing",
+        "slug": "toewijzing",
+        "prefLabel": "toewijzing",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sociale-huurwoning",
+        "slug": "sociale-huurwoning",
+        "prefLabel": "sociale huurwoning",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/leefbaarheid",
+    "slug": "leefbaarheid",
+    "prefLabel": "leefbaarheid",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Mate waarin de woonomgeving aansluit bij de eisen en wensen van de bewoners.",
+    "comment": "Corporaties dragen bij aan leefbaarheid in buurten waar zij bezit hebben, bijvoorbeeld via een schone en veilige woonomgeving, ontmoetingsruimten en de inzet van huismeesters.",
+    "scopeNote": "In de Woningwet en het BTIV is de bijdrage van corporaties aan leefbaarheid een afgebakende taak binnen de diensten van algemeen economisch belang. In benchmark- en verantwoordingscontext is leefbaarheid daarnaast een kostencategorie.",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector; wettelijk kader in artikel 45 Woningwet en het BTIV; de Aedes-benchmark hanteert leefbaarheid als kostencategorie",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/diensten-van-algemeen-economisch-belang",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/prestatieafspraak",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/volkshuisvestelijke-prestatie"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/diensten-van-algemeen-economisch-belang",
+        "slug": "diensten-van-algemeen-economisch-belang",
+        "prefLabel": "diensten van algemeen economisch belang",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/prestatieafspraak",
+        "slug": "prestatieafspraak",
+        "prefLabel": "prestatieafspraak",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/volkshuisvestelijke-prestatie",
+        "slug": "volkshuisvestelijke-prestatie",
+        "prefLabel": "volkshuisvestelijke prestatie",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/leegstand",
+    "slug": "leegstand",
+    "prefLabel": "leegstand",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Periode waarin een verhuureenheid zonder huurder is.",
+    "comment": "Leegstand kan kort en gepland zijn (tijdens een mutatie of renovatie) of langdurig en ongewenst. Corporaties sturen op het beperken van leegstand en de bijbehorende huurderving.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector; in VERA komt Leegstand voor als waarde van de eenheidstatus, zonder definitie",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuureenheid",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/mutatie"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuureenheid",
+        "slug": "verhuureenheid",
+        "prefLabel": "verhuureenheid",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/mutatie",
+        "slug": "mutatie",
+        "prefLabel": "mutatie",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/liberalisatiegrens",
+    "slug": "liberalisatiegrens",
+    "prefLabel": "liberalisatiegrens",
+    "altLabels": [
+      "middenhuurgrens"
+    ],
+    "hiddenLabels": [],
+    "definition": "Huurprijsgrens die bepaalt of een huurovereenkomst voor een zelfstandige woning bij aanvang tot het gereguleerde dan wel het geliberaliseerde segment behoort.",
+    "comment": "Sinds de Wet betaalbare huur (1 juli 2024) is de liberalisatiegrens gelijk aan de maximale huurprijsgrens bij 186 punten van het woningwaarderingsstelsel en vormt zij de bovengrens van het middensegment. De grens wordt jaarlijks vastgesteld; de aanvangshuurprijs op de ingangsdatum van de huurovereenkomst is bepalend.",
+    "scopeNote": "Tot 1 juli 2024 was de liberalisatiegrens gelijk aan de maximale huurgrens voor de huurtoeslag; sindsdien zijn deze grenzen uiteengelopen. De huurtoeslaggrens (ook DAEB-huurgrens genoemd) begrenst het lage segment, de liberalisatiegrens het middensegment.",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 7:247 Burgerlijk Wetboek en de Wet betaalbare huur; jaarlijkse parameters in de circulaire Huurprijsbeleid (MG) en de Datawonen-begrippenlijst",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/gereguleerde-huurwoning",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/geliberaliseerde-huurwoning",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/maximale-huurprijs",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/wet-betaalbare-huur"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/gereguleerde-huurwoning",
+        "slug": "gereguleerde-huurwoning",
+        "prefLabel": "gereguleerde huurwoning",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/geliberaliseerde-huurwoning",
+        "slug": "geliberaliseerde-huurwoning",
+        "prefLabel": "geliberaliseerde huurwoning",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/maximale-huurprijs",
+        "slug": "maximale-huurprijs",
+        "prefLabel": "maximale huurprijs",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/wet-betaalbare-huur",
+        "slug": "wet-betaalbare-huur",
+        "prefLabel": "Wet betaalbare huur",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/marktwaarde",
+    "slug": "marktwaarde",
+    "prefLabel": "marktwaarde",
+    "altLabels": [
+      "marktwaarde in verhuurde staat"
+    ],
+    "hiddenLabels": [],
+    "definition": "Geschat bedrag waartegen vastgoed op de waardepeildatum zou worden overgedragen tussen een bereidwillige koper en een bereidwillige verkoper, in een marktconforme transactie en rekening houdend met de verhuurde staat.",
+    "comment": "Corporaties waarderen hun vastgoed in de jaarrekening op marktwaarde in verhuurde staat, volgens een voorgeschreven handboek.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van het Handboek modelmatig waarderen marktwaarde (bijlage bij de Regeling toegelaten instellingen volkshuisvesting)",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/beleidswaarde",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vastgoed"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/beleidswaarde",
+        "slug": "beleidswaarde",
+        "prefLabel": "beleidswaarde",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vastgoed",
+        "slug": "vastgoed",
+        "prefLabel": "vastgoed",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/maximale-huurprijs",
+    "slug": "maximale-huurprijs",
+    "prefLabel": "maximale huurprijs",
+    "altLabels": [
+      "maximaal redelijke huurprijs",
+      "maximale huurprijsgrens"
+    ],
+    "hiddenLabels": [],
+    "definition": "Hoogste huurprijs die voor een woonruimte gevraagd mag worden op grond van het puntentotaal van het woningwaarderingsstelsel.",
+    "comment": "Het aantal punten van de woning bepaalt via een wettelijke tabel de maximale huurprijs. Sinds de Wet betaalbare huur is deze grens dwingend voor het gereguleerde en het middenhuursegment.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van de Uitvoeringswet huurprijzen woonruimte en het Besluit huurprijzen woonruimte; jaarlijkse indexering volgens de circulaire Huurprijsbeleid (MG)",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningwaarderingsstelsel",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/streefhuur",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurprijs",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/wet-betaalbare-huur"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningwaarderingsstelsel",
+        "slug": "woningwaarderingsstelsel",
+        "prefLabel": "woningwaarderingsstelsel",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/streefhuur",
+        "slug": "streefhuur",
+        "prefLabel": "streefhuur",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurprijs",
+        "slug": "huurprijs",
+        "prefLabel": "huurprijs",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/wet-betaalbare-huur",
+        "slug": "wet-betaalbare-huur",
+        "prefLabel": "Wet betaalbare huur",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/mutatie",
+    "slug": "mutatie",
+    "prefLabel": "mutatie",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Proces waarbij een verhuureenheid van huurder wisselt.",
+    "comment": "Een mutatie begint met de huuropzegging van de vertrekkende huurder en eindigt met de ingangsdatum van de nieuwe huurovereenkomst. Vaak vindt in die periode mutatieonderhoud plaats en wordt de huurprijs op de streefhuur gezet.",
+    "scopeNote": "Deze definitie betreft de mutatie in het verhuurproces van het woningcorporatiedomein. Het woord mutatie wordt daarbuiten ook gebruikt voor andere wijzigingen, zoals financiële mutaties in de boekhouding of mutaties in registraties; die vallen buiten dit begrip.",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector; het begrip is elders, waaronder in VERA/CORA, niet gedefinieerd",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuureenheid",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurovereenkomst",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/streefhuur",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/leegstand",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/toewijzing"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuureenheid",
+        "slug": "verhuureenheid",
+        "prefLabel": "verhuureenheid",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurovereenkomst",
+        "slug": "huurovereenkomst",
+        "prefLabel": "huurovereenkomst",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/streefhuur",
+        "slug": "streefhuur",
+        "prefLabel": "streefhuur",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/leegstand",
+        "slug": "leegstand",
+        "prefLabel": "leegstand",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/toewijzing",
+        "slug": "toewijzing",
+        "prefLabel": "toewijzing",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/niet-daeb",
+    "slug": "niet-daeb",
+    "prefLabel": "niet-DAEB",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Activiteiten en vastgoed van een woningcorporatie die buiten de diensten van algemeen economisch belang vallen, zoals geliberaliseerde huurwoningen en commercieel vastgoed.",
+    "comment": "Corporaties mogen beperkt niet-DAEB-activiteiten uitvoeren, zonder staatssteun en administratief of juridisch gescheiden van de DAEB-tak.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van Woningwet, hoofdstuk IV, en het Besluit toegelaten instellingen volkshuisvesting",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/diensten-van-algemeen-economisch-belang",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/geliberaliseerde-huurwoning"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/diensten-van-algemeen-economisch-belang",
+        "slug": "diensten-van-algemeen-economisch-belang",
+        "prefLabel": "diensten van algemeen economisch belang",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/geliberaliseerde-huurwoning",
+        "slug": "geliberaliseerde-huurwoning",
+        "prefLabel": "geliberaliseerde huurwoning",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/nieuwbouw",
+    "slug": "nieuwbouw",
+    "prefLabel": "nieuwbouw",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Realisatie van een nieuw gebouw of nieuwe woongelegenheden.",
+    "comment": "Nieuwbouw kan plaatsvinden op een onbebouwde locatie (uitbreiding) of op een locatie waar bestaand vastgoed is gesloopt (vervangende nieuwbouw).",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vervangende-nieuwbouw"
+    ],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sloop"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vervangende-nieuwbouw",
+        "slug": "vervangende-nieuwbouw",
+        "prefLabel": "vervangende nieuwbouw",
+        "internal": true
+      }
+    ],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sloop",
+        "slug": "sloop",
+        "prefLabel": "sloop",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/onderhoud",
+    "slug": "onderhoud",
+    "prefLabel": "onderhoud",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Werkzaamheden die de technische staat van vastgoed in stand houden of herstellen, met behoud van de bestaande kwaliteit.",
+    "comment": "Onderhoud varieert van het verhelpen van een klacht tot planmatig groot onderhoud. Verbetering van de woning valt onder renovatie of woningverbetering, met andere financiële en juridische gevolgen.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector; het onderscheid met verbetering is ontleend aan het huurrecht en verslaggevingsregels",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/renovatie",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verduurzaming",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/complex"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/renovatie",
+        "slug": "renovatie",
+        "prefLabel": "renovatie",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verduurzaming",
+        "slug": "verduurzaming",
+        "prefLabel": "verduurzaming",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/complex",
+        "slug": "complex",
+        "prefLabel": "complex",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/onzelfstandige-woonruimte",
+    "slug": "onzelfstandige-woonruimte",
+    "prefLabel": "onzelfstandige woonruimte",
+    "altLabels": [
+      "kamer",
+      "onzelfstandige eenheid"
+    ],
+    "hiddenLabels": [],
+    "definition": "Woonruimte waarbij de bewoner voor wezenlijke voorzieningen, zoals keuken of sanitair, gebruikmaakt van voorzieningen buiten de eigen woonruimte.",
+    "comment": "Kamers met gedeelde voorzieningen zijn de meest voorkomende vorm, bijvoorbeeld in studenten- of zorghuisvesting.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 7:234 Burgerlijk Wetboek (contrastbegrip)",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": false,
+    "broader": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woonruimte"
+    ],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/zelfstandige-woning"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woonruimte",
+        "slug": "woonruimte",
+        "prefLabel": "woonruimte",
+        "internal": true
+      }
+    ],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/zelfstandige-woning",
+        "slug": "zelfstandige-woning",
+        "prefLabel": "zelfstandige woning",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/pand",
+    "slug": "pand",
+    "prefLabel": "pand",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Kleinste bij de totstandkoming functioneel en bouwkundig-constructief zelfstandige eenheid die direct en duurzaam met de aarde is verbonden en betreedbaar en afsluitbaar is.",
+    "comment": "Pand is een begrip uit de Basisregistratie Adressen en Gebouwen (BAG). Een pand kan meerdere verblijfsobjecten bevatten, zoals een flatgebouw met appartementen.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Overgenomen uit de Catalogus Basisregistratie Adressen en Gebouwen",
+        "category": "overgenomen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verblijfsobject",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woning",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vastgoed"
+    ],
+    "exactMatch": [
+      "http://bag.basisregistraties.overheid.nl/id/begrip/Pand"
+    ],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verblijfsobject",
+        "slug": "verblijfsobject",
+        "prefLabel": "verblijfsobject",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woning",
+        "slug": "woning",
+        "prefLabel": "woning",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vastgoed",
+        "slug": "vastgoed",
+        "prefLabel": "vastgoed",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [
+      {
+        "uri": "http://bag.basisregistraties.overheid.nl/id/begrip/Pand",
+        "slug": "Pand",
+        "prefLabel": "Pand",
+        "internal": false
+      }
+    ],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passend-toewijzen",
+    "slug": "passend-toewijzen",
+    "prefLabel": "passend toewijzen",
+    "altLabels": [
+      "passendheidsnorm"
+    ],
+    "hiddenLabels": [],
+    "definition": "Wettelijke verplichting van woningcorporaties om aan ten minste 95% van de huishoudens met recht op huurtoeslag een woning toe te wijzen met een huurprijs tot en met de voor dat huishouden toepasselijke aftoppingsgrens.",
+    "comment": "Mensen met een laag inkomen krijgen een woning waarvan de huur ook laag genoeg is, zodat de huurtoeslag voldoende compenseert. De corporatie controleert vóór de toewijzing of inkomen en huurprijs bij elkaar passen.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 46, tweede lid, Woningwet en artikel 56 Besluit toegelaten instellingen volkshuisvesting",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passendheidstoets",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurtoeslag",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/aftoppingsgrens",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/doelgroep",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/toewijzing"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passendheidstoets",
+        "slug": "passendheidstoets",
+        "prefLabel": "passendheidstoets",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurtoeslag",
+        "slug": "huurtoeslag",
+        "prefLabel": "huurtoeslag",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/aftoppingsgrens",
+        "slug": "aftoppingsgrens",
+        "prefLabel": "aftoppingsgrens",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/doelgroep",
+        "slug": "doelgroep",
+        "prefLabel": "doelgroep",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/toewijzing",
+        "slug": "toewijzing",
+        "prefLabel": "toewijzing",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passendheidstoets",
+    "slug": "passendheidstoets",
+    "prefLabel": "passendheidstoets",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Controle voorafgaand aan de toewijzing of de huurprijs van de woning past bij het inkomen en de samenstelling van het huishouden.",
+    "comment": "Met de passendheidstoets voert de corporatie de norm voor passend toewijzen uit. Het huishouden levert daarvoor inkomensgegevens aan.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector, ter uitvoering van artikel 56 Besluit toegelaten instellingen volkshuisvesting",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passend-toewijzen",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishoudinkomen",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/aftoppingsgrens"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passend-toewijzen",
+        "slug": "passend-toewijzen",
+        "prefLabel": "passend toewijzen",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishoudinkomen",
+        "slug": "huishoudinkomen",
+        "prefLabel": "huishoudinkomen",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/aftoppingsgrens",
+        "slug": "aftoppingsgrens",
+        "prefLabel": "aftoppingsgrens",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/prestatieafspraak",
+    "slug": "prestatieafspraak",
+    "prefLabel": "prestatieafspraak",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Afspraak tussen gemeente, woningcorporatie en huurdersorganisatie over de bijdrage van de corporatie aan de uitvoering van het gemeentelijke volkshuisvestingsbeleid.",
+    "comment": "Prestatieafspraken gaan bijvoorbeeld over nieuwbouwaantallen, betaalbaarheid, verduurzaming en leefbaarheid. Ze worden periodiek gemaakt en jaarlijks geactualiseerd. Op landelijk niveau bestaan daarnaast de Nationale prestatieafspraken tussen het Rijk, Aedes, de Woonbond en de VNG, die het kader vormen voor de lokale afspraken.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 44 Woningwet; landelijke context: Nationale prestatieafspraken 2025-2035",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/volkshuisvestelijke-prestatie",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningcorporatie",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/leefbaarheid"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/volkshuisvestelijke-prestatie",
+        "slug": "volkshuisvestelijke-prestatie",
+        "prefLabel": "volkshuisvestelijke prestatie",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningcorporatie",
+        "slug": "woningcorporatie",
+        "prefLabel": "woningcorporatie",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/leefbaarheid",
+        "slug": "leefbaarheid",
+        "prefLabel": "leefbaarheid",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/regeling-toegelaten-instellingen-volkshuisvesting",
+    "slug": "regeling-toegelaten-instellingen-volkshuisvesting",
+    "prefLabel": "Regeling toegelaten instellingen volkshuisvesting",
+    "altLabels": [
+      "RTIV"
+    ],
+    "hiddenLabels": [],
+    "definition": "Ministeriële regeling die het Besluit toegelaten instellingen volkshuisvesting nader uitwerkt, onder meer met voorschriften voor de verantwoordings- en prognose-informatie.",
+    "comment": "De RTIV bevat onder andere de modellen en definities voor de dVi en dPi en het handboek voor de marktwaardering van corporatievastgoed.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van de tekst van de Regeling toegelaten instellingen volkshuisvesting 2015",
+        "category": "afgeleid",
+        "url": null
+      },
+      {
+        "text": null,
+        "category": null,
+        "url": "https://wetten.overheid.nl/BWBR0036712"
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/besluit-toegelaten-instellingen-volkshuisvesting",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/de-verantwoordingsinformatie",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/de-prospectieve-informatie",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/marktwaarde"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/besluit-toegelaten-instellingen-volkshuisvesting",
+        "slug": "besluit-toegelaten-instellingen-volkshuisvesting",
+        "prefLabel": "Besluit toegelaten instellingen volkshuisvesting",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/de-verantwoordingsinformatie",
+        "slug": "de-verantwoordingsinformatie",
+        "prefLabel": "de Verantwoordingsinformatie",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/de-prospectieve-informatie",
+        "slug": "de-prospectieve-informatie",
+        "prefLabel": "de Prospectieve informatie",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/marktwaarde",
+        "slug": "marktwaarde",
+        "prefLabel": "marktwaarde",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/rekenhuur",
+    "slug": "rekenhuur",
+    "prefLabel": "rekenhuur",
+    "altLabels": [
+      "subsidiabele huur"
+    ],
+    "hiddenLabels": [],
+    "definition": "Huurprijs vermeerderd met een wettelijk bepaald deel van de servicekosten, gebruikt voor de berekening van de huurtoeslag.",
+    "comment": "Alleen bepaalde servicekosten tellen (tot een maximum) mee voor de huurtoeslag, zoals schoonmaak en energie van gemeenschappelijke ruimten en de huismeester.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 5 Wet op de huurtoeslag; ondersteunende bron: VERA 4.3.2 (subsidiabele huur)",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurtoeslag",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurprijs",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/servicekosten",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/aftoppingsgrens"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurtoeslag",
+        "slug": "huurtoeslag",
+        "prefLabel": "huurtoeslag",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurprijs",
+        "slug": "huurprijs",
+        "prefLabel": "huurprijs",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/servicekosten",
+        "slug": "servicekosten",
+        "prefLabel": "servicekosten",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/aftoppingsgrens",
+        "slug": "aftoppingsgrens",
+        "prefLabel": "aftoppingsgrens",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/renovatie",
+    "slug": "renovatie",
+    "prefLabel": "renovatie",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Gedeeltelijke vernieuwing van een gebouw of woonruimte door verandering of toevoeging, gericht op verbetering.",
+    "comment": "Bij renovatie verandert de woning wezenlijk, bijvoorbeeld door een nieuwe indeling, uitbreiding of ingrijpende verduurzaming. Dit onderscheidt renovatie van onderhoud, dat de bestaande kwaliteit in stand houdt.",
+    "scopeNote": "In het Burgerlijk Wetboek omvat renovatie ook sloop met vervangende nieuwbouw; in het dagelijks spraakgebruik wordt renovatie meestal beperkt tot vernieuwing van de bestaande woning.",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 7:220, tweede lid, Burgerlijk Wetboek",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/onderhoud",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verduurzaming",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vervangende-nieuwbouw"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/onderhoud",
+        "slug": "onderhoud",
+        "prefLabel": "onderhoud",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verduurzaming",
+        "slug": "verduurzaming",
+        "prefLabel": "verduurzaming",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vervangende-nieuwbouw",
+        "slug": "vervangende-nieuwbouw",
+        "prefLabel": "vervangende nieuwbouw",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/servicekosten",
+    "slug": "servicekosten",
+    "prefLabel": "servicekosten",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Vergoeding voor de overige zaken en diensten die de verhuurder levert in verband met de bewoning van de woonruimte.",
+    "comment": "Voorbeelden zijn schoonmaak van gemeenschappelijke ruimten, glasbewassing en de huismeester. De verhuurder rekent servicekosten jaarlijks af op basis van de werkelijke kosten.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Overgenomen uit artikel 7:237, derde lid, Burgerlijk Wetboek (vrijwel letterlijk); nadere uitwerking in het Besluit servicekosten",
+        "category": "overgenomen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurprijs",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/bruto-huur",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/rekenhuur"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurprijs",
+        "slug": "huurprijs",
+        "prefLabel": "huurprijs",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/bruto-huur",
+        "slug": "bruto-huur",
+        "prefLabel": "bruto huur",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/rekenhuur",
+        "slug": "rekenhuur",
+        "prefLabel": "rekenhuur",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sloop",
+    "slug": "sloop",
+    "prefLabel": "sloop",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Afbraak van een gebouw of een deel daarvan.",
+    "comment": "Sloop vindt bij corporaties meestal plaats als onderdeel van vervangende nieuwbouw of herstructurering van een buurt.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vervangende-nieuwbouw",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/nieuwbouw"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vervangende-nieuwbouw",
+        "slug": "vervangende-nieuwbouw",
+        "prefLabel": "vervangende nieuwbouw",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/nieuwbouw",
+        "slug": "nieuwbouw",
+        "prefLabel": "nieuwbouw",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sociale-huurwoning",
+    "slug": "sociale-huurwoning",
+    "prefLabel": "sociale huurwoning",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Huurwoning met een aanvangshuurprijs tot en met de maximale huurgrens voor de huurtoeslag (DAEB-huurgrens), bestemd voor huishoudens met een laag inkomen.",
+    "comment": "Sociale huurwoningen van corporaties behoren vrijwel altijd tot het DAEB-bezit en vormen het lage segment van de gereguleerde huursector. Voor toewijzing gelden inkomensgrenzen en de norm voor passend toewijzen.",
+    "scopeNote": "Sociale huurwoning is geen wettelijk gedefinieerd begrip. In de praktijk wordt het vaak gelijkgesteld aan een gereguleerde huurwoning van een corporatie (DAEB); gemeentelijke verordeningen en het Besluit ruimtelijke ordening kennen eigen afbakeningen. Benoem in teksten welke afbakening is bedoeld.",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector; gewogen bronnen: Woningwet (DAEB), Wet op de huurtoeslag en Datawonen-begrippenlijst (DAEB-huurgrens)",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": false,
+    "broader": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woning"
+    ],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/diensten-van-algemeen-economisch-belang",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurtoeslag",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/gereguleerde-huurwoning",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/doelgroep"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woning",
+        "slug": "woning",
+        "prefLabel": "woning",
+        "internal": true
+      }
+    ],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/diensten-van-algemeen-economisch-belang",
+        "slug": "diensten-van-algemeen-economisch-belang",
+        "prefLabel": "diensten van algemeen economisch belang",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurtoeslag",
+        "slug": "huurtoeslag",
+        "prefLabel": "huurtoeslag",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/gereguleerde-huurwoning",
+        "slug": "gereguleerde-huurwoning",
+        "prefLabel": "gereguleerde huurwoning",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/doelgroep",
+        "slug": "doelgroep",
+        "prefLabel": "doelgroep",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/streefhuur",
+    "slug": "streefhuur",
+    "prefLabel": "streefhuur",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Huurprijs waarnaar de woningcorporatie voor een verhuureenheid streeft op grond van haar huurbeleid.",
+    "comment": "De streefhuur wordt vaak uitgedrukt als percentage van de maximale huurprijs volgens het woningwaarderingsstelsel. Bij mutatie wordt de huurprijs van de nieuwe verhuring op de streefhuur gezet.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van VERA 4.3.2, klasse Eenheid, attribuut streefhuur; geharmoniseerd naar de terminologie van dit kader (huurprijs in plaats van netto huur)",
+        "category": "afgeleid",
+        "url": null
+      },
+      {
+        "text": null,
+        "category": null,
+        "url": "https://www.coraveraonline.nl/index.php/Klasse:VERA-Eenheden-Eenheid/VERA_4.3.2"
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/maximale-huurprijs",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/mutatie",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurprijs",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuureenheid"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/maximale-huurprijs",
+        "slug": "maximale-huurprijs",
+        "prefLabel": "maximale huurprijs",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/mutatie",
+        "slug": "mutatie",
+        "prefLabel": "mutatie",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurprijs",
+        "slug": "huurprijs",
+        "prefLabel": "huurprijs",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuureenheid",
+        "slug": "verhuureenheid",
+        "prefLabel": "verhuureenheid",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/toewijzing",
+    "slug": "toewijzing",
+    "prefLabel": "toewijzing",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Besluit van een verhuurder om een woonruimte aan een specifieke woningzoekende te verhuren.",
+    "comment": "Bij corporaties verloopt toewijzing meestal via een woonruimteverdeelsysteem en gelden wettelijke regels, zoals inkomensgrenzen en passend toewijzen.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector; wettelijk kader in Woningwet, BTIV en Huisvestingswet 2014",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passend-toewijzen",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningzoekende",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/inkomensgrens",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurovereenkomst"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passend-toewijzen",
+        "slug": "passend-toewijzen",
+        "prefLabel": "passend toewijzen",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningzoekende",
+        "slug": "woningzoekende",
+        "prefLabel": "woningzoekende",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/inkomensgrens",
+        "slug": "inkomensgrens",
+        "prefLabel": "inkomensgrens",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurovereenkomst",
+        "slug": "huurovereenkomst",
+        "prefLabel": "huurovereenkomst",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vastgoed",
+    "slug": "vastgoed",
+    "prefLabel": "vastgoed",
+    "altLabels": [
+      "onroerend goed",
+      "onroerende zaak"
+    ],
+    "hiddenLabels": [],
+    "definition": "Grond en de gebouwen en werken die duurzaam met de grond zijn verenigd.",
+    "comment": "Het vastgoed van een corporatie bestaat vooral uit woongelegenheden, met daarnaast bijvoorbeeld maatschappelijk vastgoed, bedrijfsruimten en parkeervoorzieningen.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 3:3 Burgerlijk Wetboek",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woongelegenheid",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/complex"
+    ],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuureenheid",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/marktwaarde",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/beleidswaarde"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woongelegenheid",
+        "slug": "woongelegenheid",
+        "prefLabel": "woongelegenheid",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/complex",
+        "slug": "complex",
+        "prefLabel": "complex",
+        "internal": true
+      }
+    ],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuureenheid",
+        "slug": "verhuureenheid",
+        "prefLabel": "verhuureenheid",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/marktwaarde",
+        "slug": "marktwaarde",
+        "prefLabel": "marktwaarde",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/beleidswaarde",
+        "slug": "beleidswaarde",
+        "prefLabel": "beleidswaarde",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verblijfsobject",
+    "slug": "verblijfsobject",
+    "prefLabel": "verblijfsobject",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Kleinste binnen één of meer panden gelegen en voor woon-, bedrijfsmatige of recreatieve doeleinden geschikte eenheid van gebruik, die ontsloten wordt via een eigen afsluitbare toegang, onderwerp kan zijn van goederenrechtelijke rechtshandelingen en in functioneel opzicht zelfstandig is.",
+    "comment": "Verblijfsobject is een begrip uit de Basisregistratie Adressen en Gebouwen (BAG). Een verblijfsobject met woonfunctie komt in de praktijk grotendeels overeen met een zelfstandige woning.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Overgenomen uit de Catalogus Basisregistratie Adressen en Gebouwen",
+        "category": "overgenomen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/pand",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woning",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/zelfstandige-woning"
+    ],
+    "exactMatch": [
+      "http://bag.basisregistraties.overheid.nl/id/begrip/Verblijfsobject"
+    ],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/pand",
+        "slug": "pand",
+        "prefLabel": "pand",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woning",
+        "slug": "woning",
+        "prefLabel": "woning",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/zelfstandige-woning",
+        "slug": "zelfstandige-woning",
+        "prefLabel": "zelfstandige woning",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [
+      {
+        "uri": "http://bag.basisregistraties.overheid.nl/id/begrip/Verblijfsobject",
+        "slug": "Verblijfsobject",
+        "prefLabel": "Verblijfsobject",
+        "internal": false
+      }
+    ],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verduurzaming",
+    "slug": "verduurzaming",
+    "prefLabel": "verduurzaming",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Geheel van maatregelen die het energiegebruik en de milieubelasting van vastgoed verminderen.",
+    "comment": "Voorbeelden zijn isolatie, zonnepanelen, warmtepompen en aansluiting op warmtenetten. Verduurzaming kan onderdeel zijn van onderhoud, renovatie of nieuwbouw.",
+    "scopeNote": "In brede zin kan verduurzaming ook op de bedrijfsvoering slaan (zoals elektrisch vervoer); in dit kader gaat het primair om vastgoedmaatregelen.",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector; de Aedes-benchmark (verbeteruitgaven, energetische maatregelen) is meegewogen",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/renovatie",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/onderhoud",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/nieuwbouw"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/renovatie",
+        "slug": "renovatie",
+        "prefLabel": "renovatie",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/onderhoud",
+        "slug": "onderhoud",
+        "prefLabel": "onderhoud",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/nieuwbouw",
+        "slug": "nieuwbouw",
+        "prefLabel": "nieuwbouw",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuurder",
+    "slug": "verhuurder",
+    "prefLabel": "verhuurder",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Partij die op grond van een huurovereenkomst een woonruimte of andere onroerende zaak in gebruik geeft aan een huurder.",
+    "comment": "In de corporatiesector is de verhuurder meestal een woningcorporatie, maar het begrip omvat ook particuliere en commerciële verhuurders.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 7:201 Burgerlijk Wetboek",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningcorporatie"
+    ],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurder",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurovereenkomst"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningcorporatie",
+        "slug": "woningcorporatie",
+        "prefLabel": "woningcorporatie",
+        "internal": true
+      }
+    ],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurder",
+        "slug": "huurder",
+        "prefLabel": "huurder",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurovereenkomst",
+        "slug": "huurovereenkomst",
+        "prefLabel": "huurovereenkomst",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuureenheid",
+    "slug": "verhuureenheid",
+    "prefLabel": "verhuureenheid",
+    "altLabels": [
+      "verhuurbare eenheid",
+      "VHE",
+      "eenheid"
+    ],
+    "hiddenLabels": [],
+    "definition": "Kleinste eenheid van vastgoed die afzonderlijk verhuurd wordt of verhuurd kan worden en waarvoor een afzonderlijke huurovereenkomst kan worden gesloten.",
+    "comment": "Verhuureenheden zijn de teleenheid in de bedrijfsvoering en verantwoording van corporaties: woongelegenheden, maar ook parkeerplaatsen, bedrijfsruimten en maatschappelijk vastgoed.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector; de VERA-klasse Eenheid is meegewogen (zie de verwijzing via skos:closeMatch)",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woongelegenheid",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/complex",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurovereenkomst",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/mutatie",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/leegstand"
+    ],
+    "exactMatch": [],
+    "closeMatch": [
+      "https://www.coraveraonline.nl/index.php/Klasse:VERA-Eenheden-Eenheid/VERA_4.3.2"
+    ],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woongelegenheid",
+        "slug": "woongelegenheid",
+        "prefLabel": "woongelegenheid",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/complex",
+        "slug": "complex",
+        "prefLabel": "complex",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurovereenkomst",
+        "slug": "huurovereenkomst",
+        "prefLabel": "huurovereenkomst",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/mutatie",
+        "slug": "mutatie",
+        "prefLabel": "mutatie",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/leegstand",
+        "slug": "leegstand",
+        "prefLabel": "leegstand",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": [
+      {
+        "uri": "https://www.coraveraonline.nl/index.php/Klasse:VERA-Eenheden-Eenheid/VERA_4.3.2",
+        "slug": "VERA_4.3.2",
+        "prefLabel": "VERA_4.3.2",
+        "internal": false
+      }
+    ]
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vervangende-nieuwbouw",
+    "slug": "vervangende-nieuwbouw",
+    "prefLabel": "vervangende nieuwbouw",
+    "altLabels": [
+      "sloop/nieuwbouw",
+      "sloop-nieuwbouw"
+    ],
+    "hiddenLabels": [],
+    "definition": "Nieuwbouw op een locatie waar bestaand vastgoed daarvoor wordt gesloopt.",
+    "comment": "Vervangende nieuwbouw is een veelgebruikte ingreep bij verouderd bezit: de bestaande woningen worden gesloopt en vervangen door nieuwe. Juridisch valt sloop met vervangende nieuwbouw onder het begrip renovatie (artikel 7:220 BW), met bijbehorende rechten voor huurders.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector; artikel 7:220, tweede lid, Burgerlijk Wetboek meegewogen voor de juridische duiding",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": false,
+    "broader": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/nieuwbouw"
+    ],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sloop",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/renovatie"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/nieuwbouw",
+        "slug": "nieuwbouw",
+        "prefLabel": "nieuwbouw",
+        "internal": true
+      }
+    ],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sloop",
+        "slug": "sloop",
+        "prefLabel": "sloop",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/renovatie",
+        "slug": "renovatie",
+        "prefLabel": "renovatie",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/volkshuisvestelijke-prestatie",
+    "slug": "volkshuisvestelijke-prestatie",
+    "prefLabel": "volkshuisvestelijke prestatie",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Bijdrage van een woningcorporatie aan de volkshuisvestingsopgave, zoals de beschikbaarheid, betaalbaarheid en kwaliteit van woningen en de leefbaarheid van buurten.",
+    "comment": "Volkshuisvestelijke prestaties zijn het maatschappelijk resultaat van de corporatie. Ze worden vastgelegd in prestatieafspraken en verantwoord richting toezichthouders en belanghebbenden.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector, aansluitend bij Woningwet hoofdstuk IV en de volkshuisvestelijke opgave uit de Nationale prestatieafspraken 2025-2035",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/prestatieafspraak",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/leefbaarheid",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningcorporatie"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/prestatieafspraak",
+        "slug": "prestatieafspraak",
+        "prefLabel": "prestatieafspraak",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/leefbaarheid",
+        "slug": "leefbaarheid",
+        "prefLabel": "leefbaarheid",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningcorporatie",
+        "slug": "woningcorporatie",
+        "prefLabel": "woningcorporatie",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/wet-betaalbare-huur",
+    "slug": "wet-betaalbare-huur",
+    "prefLabel": "Wet betaalbare huur",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Wet die de huurprijsbescherming uitbreidt naar het middenhuursegment en de toepassing van het woningwaarderingsstelsel dwingend maakt.",
+    "comment": "Sinds deze wet (1 juli 2024) geldt de maximale huurprijs op basis van het puntenstelsel voor een groter deel van de huurwoningen en zijn verhuurders verplicht zich daaraan te houden.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van de wettekst van de Wet betaalbare huur",
+        "category": "afgeleid",
+        "url": null
+      },
+      {
+        "text": null,
+        "category": null,
+        "url": "https://wetten.overheid.nl/BWBR0049518"
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningwaarderingsstelsel",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/maximale-huurprijs",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/gereguleerde-huurwoning",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/liberalisatiegrens"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningwaarderingsstelsel",
+        "slug": "woningwaarderingsstelsel",
+        "prefLabel": "woningwaarderingsstelsel",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/maximale-huurprijs",
+        "slug": "maximale-huurprijs",
+        "prefLabel": "maximale huurprijs",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/gereguleerde-huurwoning",
+        "slug": "gereguleerde-huurwoning",
+        "prefLabel": "gereguleerde huurwoning",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/liberalisatiegrens",
+        "slug": "liberalisatiegrens",
+        "prefLabel": "liberalisatiegrens",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woning",
+    "slug": "woning",
+    "prefLabel": "woning",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Afzonderlijk gedeelte van een gebouw, welk gedeelte tot bewoning is bestemd, met het daarbij behorende deel van de grond.",
+    "comment": "Een woning kan een heel gebouw beslaan (eengezinswoning) of een deel daarvan (appartement).",
+    "scopeNote": "Andere kaders bakenen woning anders af: de BAG hanteert het verblijfsobject met woonfunctie, de Wet WOZ een eigen woningafbakening. Vermeld bij tellingen en analyses welke afbakening is gebruikt.",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Overgenomen uit artikel 1 Woningwet",
+        "category": "overgenomen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": false,
+    "broader": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woongelegenheid"
+    ],
+    "narrower": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sociale-huurwoning",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/zelfstandige-woning"
+    ],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verblijfsobject"
+    ],
+    "exactMatch": [],
+    "closeMatch": [
+      "http://bag.basisregistraties.overheid.nl/id/begrip/Verblijfsobject"
+    ],
+    "broaderResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woongelegenheid",
+        "slug": "woongelegenheid",
+        "prefLabel": "woongelegenheid",
+        "internal": true
+      }
+    ],
+    "narrowerResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sociale-huurwoning",
+        "slug": "sociale-huurwoning",
+        "prefLabel": "sociale huurwoning",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/zelfstandige-woning",
+        "slug": "zelfstandige-woning",
+        "prefLabel": "zelfstandige woning",
+        "internal": true
+      }
+    ],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verblijfsobject",
+        "slug": "verblijfsobject",
+        "prefLabel": "verblijfsobject",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": [
+      {
+        "uri": "http://bag.basisregistraties.overheid.nl/id/begrip/Verblijfsobject",
+        "slug": "Verblijfsobject",
+        "prefLabel": "Verblijfsobject",
+        "internal": false
+      }
+    ]
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningcorporatie",
+    "slug": "woningcorporatie",
+    "prefLabel": "woningcorporatie",
+    "altLabels": [
+      "toegelaten instelling",
+      "corporatie"
+    ],
+    "hiddenLabels": [],
+    "definition": "Vereniging of stichting die zich ten doel stelt uitsluitend op het gebied van de volkshuisvesting werkzaam te zijn en die daartoe op grond van de Woningwet is toegelaten.",
+    "comment": "Een woningcorporatie bouwt, verhuurt en beheert vooral sociale huurwoningen voor mensen met een laag inkomen of een kwetsbare positie op de woningmarkt. In wet- en regelgeving heet een woningcorporatie een toegelaten instelling.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van artikel 19 Woningwet; ondersteunende bronnen: VERA 4.3 (ToegelatenInstelling) en Datawonen-begrippenlijst (Corporatie)",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": false,
+    "broader": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuurder"
+    ],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningwet",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/diensten-van-algemeen-economisch-belang",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sociale-huurwoning"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuurder",
+        "slug": "verhuurder",
+        "prefLabel": "verhuurder",
+        "internal": true
+      }
+    ],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningwet",
+        "slug": "woningwet",
+        "prefLabel": "Woningwet",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/diensten-van-algemeen-economisch-belang",
+        "slug": "diensten-van-algemeen-economisch-belang",
+        "prefLabel": "diensten van algemeen economisch belang",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sociale-huurwoning",
+        "slug": "sociale-huurwoning",
+        "prefLabel": "sociale huurwoning",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningwaarderingsstelsel",
+    "slug": "woningwaarderingsstelsel",
+    "prefLabel": "woningwaarderingsstelsel",
+    "altLabels": [
+      "WWS",
+      "puntenstelsel",
+      "puntensysteem"
+    ],
+    "hiddenLabels": [],
+    "definition": "Stelsel waarmee de kwaliteit van een woonruimte in punten wordt gewaardeerd en waarmee de maximale huurprijs van die woonruimte wordt bepaald.",
+    "comment": "Punten worden toegekend voor onder meer oppervlakte, voorzieningen, energieprestatie en WOZ-waarde. Het puntentotaal bepaalt de maximale huurprijs en of een woning tot het gereguleerde segment behoort.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van de Uitvoeringswet huurprijzen woonruimte en het Besluit huurprijzen woonruimte; ondersteunende bronnen: Datawonen-begrippenlijst en Aedes-benchmark",
+        "category": "afgeleid",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/maximale-huurprijs",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/gereguleerde-huurwoning",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/liberalisatiegrens",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/wet-betaalbare-huur"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/maximale-huurprijs",
+        "slug": "maximale-huurprijs",
+        "prefLabel": "maximale huurprijs",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/gereguleerde-huurwoning",
+        "slug": "gereguleerde-huurwoning",
+        "prefLabel": "gereguleerde huurwoning",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/liberalisatiegrens",
+        "slug": "liberalisatiegrens",
+        "prefLabel": "liberalisatiegrens",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/wet-betaalbare-huur",
+        "slug": "wet-betaalbare-huur",
+        "prefLabel": "Wet betaalbare huur",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningwet",
+    "slug": "woningwet",
+    "prefLabel": "Woningwet",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Wet die het stelsel van de volkshuisvesting regelt, waaronder de toelating van, het werkdomein van en het toezicht op woningcorporaties.",
+    "comment": "De Woningwet is de basiswet voor woningcorporaties. De wet bepaalt onder meer wat corporaties wel en niet mogen doen, hoe het toezicht is geregeld en hoe corporaties samenwerken met gemeenten en huurdersorganisaties.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Afgeleid van de wettekst van de Woningwet",
+        "category": "afgeleid",
+        "url": null
+      },
+      {
+        "text": null,
+        "category": null,
+        "url": "https://wetten.overheid.nl/BWBR0005181"
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/besluit-toegelaten-instellingen-volkshuisvesting",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningcorporatie",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/prestatieafspraak"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/besluit-toegelaten-instellingen-volkshuisvesting",
+        "slug": "besluit-toegelaten-instellingen-volkshuisvesting",
+        "prefLabel": "Besluit toegelaten instellingen volkshuisvesting",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningcorporatie",
+        "slug": "woningcorporatie",
+        "prefLabel": "woningcorporatie",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/prestatieafspraak",
+        "slug": "prestatieafspraak",
+        "prefLabel": "prestatieafspraak",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningzoekende",
+    "slug": "woningzoekende",
+    "prefLabel": "woningzoekende",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Huishouden dat op zoek is naar woonruimte.",
+    "comment": "In woonruimteverdeelsystemen is een woningzoekende meestal een huishouden dat staat ingeschreven om voor een woning in aanmerking te komen.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Eigen definitie van het Begrippenkader Corporatiesector, aansluitend bij het gebruik in huisvestingsverordeningen op grond van de Huisvestingswet 2014",
+        "category": "eigen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/toewijzing",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishouden",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woonruimte"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/toewijzing",
+        "slug": "toewijzing",
+        "prefLabel": "toewijzing",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishouden",
+        "slug": "huishouden",
+        "prefLabel": "huishouden",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woonruimte",
+        "slug": "woonruimte",
+        "prefLabel": "woonruimte",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woongelegenheid",
+    "slug": "woongelegenheid",
+    "prefLabel": "woongelegenheid",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Woning met de daarbij behorende grond of het daarbij behorende deel van de grond, dan wel een woonwagen of een standplaats.",
+    "comment": "Woongelegenheid is de verzamelterm uit de Woningwet voor alles wat een corporatie aan woonvormen verhuurt: woningen, woonwagens en standplaatsen.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Overgenomen uit artikel 1 Woningwet",
+        "category": "overgenomen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": false,
+    "broader": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vastgoed"
+    ],
+    "narrower": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woning"
+    ],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuureenheid"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vastgoed",
+        "slug": "vastgoed",
+        "prefLabel": "vastgoed",
+        "internal": true
+      }
+    ],
+    "narrowerResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woning",
+        "slug": "woning",
+        "prefLabel": "woning",
+        "internal": true
+      }
+    ],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuureenheid",
+        "slug": "verhuureenheid",
+        "prefLabel": "verhuureenheid",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woonruimte",
+    "slug": "woonruimte",
+    "prefLabel": "woonruimte",
+    "altLabels": [],
+    "hiddenLabels": [],
+    "definition": "Besloten ruimte die, al dan niet tezamen met een of meer andere ruimten, bestemd of geschikt is voor bewoning door een huishouden.",
+    "comment": "Woonruimte is breder dan woning: ook een kamer of een woonwagen is woonruimte. Het is de gangbare term in het huurrecht en de woonruimteverdeling.",
+    "scopeNote": "Het huurrecht (artikel 7:233 BW) definieert woonruimte vanuit de verhuurde zaak; de Huisvestingswet 2014 vanuit de geschiktheid voor bewoning. De strekking is vergelijkbaar, de juridische toepassing verschilt.",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Overgenomen uit artikel 1 Huisvestingswet 2014; vergelijk artikel 7:233 Burgerlijk Wetboek",
+        "category": "overgenomen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": true,
+    "broader": [],
+    "narrower": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/zelfstandige-woning",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/onzelfstandige-woonruimte"
+    ],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woning",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurovereenkomst"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [],
+    "narrowerResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/zelfstandige-woning",
+        "slug": "zelfstandige-woning",
+        "prefLabel": "zelfstandige woning",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/onzelfstandige-woonruimte",
+        "slug": "onzelfstandige-woonruimte",
+        "prefLabel": "onzelfstandige woonruimte",
+        "internal": true
+      }
+    ],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woning",
+        "slug": "woning",
+        "prefLabel": "woning",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurovereenkomst",
+        "slug": "huurovereenkomst",
+        "prefLabel": "huurovereenkomst",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/zelfstandige-woning",
+    "slug": "zelfstandige-woning",
+    "prefLabel": "zelfstandige woning",
+    "altLabels": [
+      "zelfstandige woonruimte"
+    ],
+    "hiddenLabels": [],
+    "definition": "Woning met een eigen toegang, die de bewoner kan bewonen zonder daarbij afhankelijk te zijn van wezenlijke voorzieningen buiten de woning.",
+    "comment": "Wezenlijke voorzieningen zijn bijvoorbeeld keuken en sanitair. Zelfstandigheid is onder meer bepalend voor de huurtoeslag en het woningwaarderingsstelsel.",
+    "scopeNote": "",
+    "changeNote": "",
+    "historyNote": "",
+    "example": "",
+    "sources": [
+      {
+        "text": "Overgenomen uit artikel 7:234 Burgerlijk Wetboek (vrijwel letterlijk)",
+        "category": "overgenomen",
+        "url": null
+      }
+    ],
+    "inScheme": "http://begrippenkader-corporatiesector.aedes.nl/id/scheme/begrippenkader-corporatiesector",
+    "isTopConcept": false,
+    "broader": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woonruimte",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woning"
+    ],
+    "narrower": [],
+    "related": [
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/onzelfstandige-woonruimte",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurtoeslag",
+      "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningwaarderingsstelsel"
+    ],
+    "exactMatch": [],
+    "closeMatch": [],
+    "broaderResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woonruimte",
+        "slug": "woonruimte",
+        "prefLabel": "woonruimte",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woning",
+        "slug": "woning",
+        "prefLabel": "woning",
+        "internal": true
+      }
+    ],
+    "narrowerResolved": [],
+    "relatedResolved": [
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/onzelfstandige-woonruimte",
+        "slug": "onzelfstandige-woonruimte",
+        "prefLabel": "onzelfstandige woonruimte",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurtoeslag",
+        "slug": "huurtoeslag",
+        "prefLabel": "huurtoeslag",
+        "internal": true
+      },
+      {
+        "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningwaarderingsstelsel",
+        "slug": "woningwaarderingsstelsel",
+        "prefLabel": "woningwaarderingsstelsel",
+        "internal": true
+      }
+    ],
+    "exactMatchResolved": [],
+    "closeMatchResolved": []
+  }
+]

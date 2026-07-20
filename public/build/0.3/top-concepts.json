@@ -1,0 +1,257 @@
+[
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/aftoppingsgrens",
+    "slug": "aftoppingsgrens",
+    "prefLabel": "aftoppingsgrens"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/beleidswaarde",
+    "slug": "beleidswaarde",
+    "prefLabel": "beleidswaarde"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/besluit-toegelaten-instellingen-volkshuisvesting",
+    "slug": "besluit-toegelaten-instellingen-volkshuisvesting",
+    "prefLabel": "Besluit toegelaten instellingen volkshuisvesting"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/bewoner",
+    "slug": "bewoner",
+    "prefLabel": "bewoner"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/bruto-huur",
+    "slug": "bruto-huur",
+    "prefLabel": "bruto huur"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/de-prospectieve-informatie",
+    "slug": "de-prospectieve-informatie",
+    "prefLabel": "de Prospectieve informatie"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/de-verantwoordingsinformatie",
+    "slug": "de-verantwoordingsinformatie",
+    "prefLabel": "de Verantwoordingsinformatie"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/diensten-van-algemeen-economisch-belang",
+    "slug": "diensten-van-algemeen-economisch-belang",
+    "prefLabel": "diensten van algemeen economisch belang"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/doelgroep",
+    "slug": "doelgroep",
+    "prefLabel": "doelgroep"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/geliberaliseerde-huurwoning",
+    "slug": "geliberaliseerde-huurwoning",
+    "prefLabel": "geliberaliseerde huurwoning"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/gereguleerde-huurwoning",
+    "slug": "gereguleerde-huurwoning",
+    "prefLabel": "gereguleerde huurwoning"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishouden",
+    "slug": "huishouden",
+    "prefLabel": "huishouden"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huishoudinkomen",
+    "slug": "huishoudinkomen",
+    "prefLabel": "huishoudinkomen"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huisvestingswet-2014",
+    "slug": "huisvestingswet-2014",
+    "prefLabel": "Huisvestingswet 2014"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurder",
+    "slug": "huurder",
+    "prefLabel": "huurder"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurovereenkomst",
+    "slug": "huurovereenkomst",
+    "prefLabel": "huurovereenkomst"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurprijs",
+    "slug": "huurprijs",
+    "prefLabel": "huurprijs"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurtoeslag",
+    "slug": "huurtoeslag",
+    "prefLabel": "huurtoeslag"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/huurverhoging",
+    "slug": "huurverhoging",
+    "prefLabel": "huurverhoging"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/inkomensgrens",
+    "slug": "inkomensgrens",
+    "prefLabel": "inkomensgrens"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/leefbaarheid",
+    "slug": "leefbaarheid",
+    "prefLabel": "leefbaarheid"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/leegstand",
+    "slug": "leegstand",
+    "prefLabel": "leegstand"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/liberalisatiegrens",
+    "slug": "liberalisatiegrens",
+    "prefLabel": "liberalisatiegrens"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/marktwaarde",
+    "slug": "marktwaarde",
+    "prefLabel": "marktwaarde"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/maximale-huurprijs",
+    "slug": "maximale-huurprijs",
+    "prefLabel": "maximale huurprijs"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/mutatie",
+    "slug": "mutatie",
+    "prefLabel": "mutatie"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/niet-daeb",
+    "slug": "niet-daeb",
+    "prefLabel": "niet-DAEB"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/nieuwbouw",
+    "slug": "nieuwbouw",
+    "prefLabel": "nieuwbouw"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/onderhoud",
+    "slug": "onderhoud",
+    "prefLabel": "onderhoud"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/pand",
+    "slug": "pand",
+    "prefLabel": "pand"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passend-toewijzen",
+    "slug": "passend-toewijzen",
+    "prefLabel": "passend toewijzen"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/passendheidstoets",
+    "slug": "passendheidstoets",
+    "prefLabel": "passendheidstoets"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/prestatieafspraak",
+    "slug": "prestatieafspraak",
+    "prefLabel": "prestatieafspraak"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/regeling-toegelaten-instellingen-volkshuisvesting",
+    "slug": "regeling-toegelaten-instellingen-volkshuisvesting",
+    "prefLabel": "Regeling toegelaten instellingen volkshuisvesting"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/rekenhuur",
+    "slug": "rekenhuur",
+    "prefLabel": "rekenhuur"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/renovatie",
+    "slug": "renovatie",
+    "prefLabel": "renovatie"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/servicekosten",
+    "slug": "servicekosten",
+    "prefLabel": "servicekosten"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/sloop",
+    "slug": "sloop",
+    "prefLabel": "sloop"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/streefhuur",
+    "slug": "streefhuur",
+    "prefLabel": "streefhuur"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/toewijzing",
+    "slug": "toewijzing",
+    "prefLabel": "toewijzing"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/vastgoed",
+    "slug": "vastgoed",
+    "prefLabel": "vastgoed"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verblijfsobject",
+    "slug": "verblijfsobject",
+    "prefLabel": "verblijfsobject"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verduurzaming",
+    "slug": "verduurzaming",
+    "prefLabel": "verduurzaming"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuurder",
+    "slug": "verhuurder",
+    "prefLabel": "verhuurder"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/verhuureenheid",
+    "slug": "verhuureenheid",
+    "prefLabel": "verhuureenheid"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/volkshuisvestelijke-prestatie",
+    "slug": "volkshuisvestelijke-prestatie",
+    "prefLabel": "volkshuisvestelijke prestatie"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/wet-betaalbare-huur",
+    "slug": "wet-betaalbare-huur",
+    "prefLabel": "Wet betaalbare huur"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningwaarderingsstelsel",
+    "slug": "woningwaarderingsstelsel",
+    "prefLabel": "woningwaarderingsstelsel"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningwet",
+    "slug": "woningwet",
+    "prefLabel": "Woningwet"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woningzoekende",
+    "slug": "woningzoekende",
+    "prefLabel": "woningzoekende"
+  },
+  {
+    "uri": "http://begrippenkader-corporatiesector.aedes.nl/id/begrip/woonruimte",
+    "slug": "woonruimte",
+    "prefLabel": "woonruimte"
+  }
+]
