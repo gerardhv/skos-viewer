@@ -17,6 +17,20 @@ RELATION_PROPERTIES = (SKOS.broader, SKOS.narrower, SKOS.related)
 
 
 def validate_version(version_id: str, ttl_path: Path) -> list[str]:
+  """Valideer één SKOS-vocabulaireversie op structuur en consistentie.
+
+  Controleert o.a. aanwezigheid van ConceptScheme, verplichte conceptvelden
+  (prefLabel, definition, inScheme), geldige relaties en collectielidmaatschap.
+  Waarschuwingen (bijv. asymmetrische topConcept-relaties) worden naar stdout
+  geschreven; alleen harde fouten worden teruggegeven.
+
+  Args:
+    version_id: Versie-identificatie voor foutmeldingen (bijv. ``"0.2"``).
+    ttl_path: Pad naar het Turtle-bestand van deze versie.
+
+  Returns:
+    Lijst met foutmeldingen; leeg als de versie geldig is.
+  """
   errors: list[str] = []
   warnings: list[str] = []
 
@@ -109,6 +123,11 @@ def validate_version(version_id: str, ttl_path: Path) -> list[str]:
 
 
 def main() -> int:
+  """Valideer alle versies uit ``versions.json``.
+
+  Returns:
+    Exitcode 0 bij succes, 1 bij ontbrekende bestanden of validatiefouten.
+  """
   if not VERSIONS_FILE.exists():
     print(f"versions.json niet gevonden: {VERSIONS_FILE}", file=sys.stderr)
     return 1

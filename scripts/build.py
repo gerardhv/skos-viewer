@@ -25,10 +25,15 @@ SOURCE_CATEGORIES = {
 
 
 def normalize_ttl_content(content: str) -> str:
+  """Normaliseer regeleinden naar Unix-stijl (``\\n``)."""
   return content.replace("\r\n", "\n").replace("\r", "\n")
 
 
 def extract_header_comment(content: str) -> str:
+  """Haal het blok commentaarregels bovenaan een TTL-bestand op.
+
+  Stopt bij de eerste lege regel na commentaar, of bij ``@prefix``/``@base``.
+  """
   lines: list[str] = []
   for line in normalize_ttl_content(content).splitlines():
     stripped = line.strip()
@@ -46,6 +51,11 @@ def extract_header_comment(content: str) -> str:
 
 
 def literal_nl(graph: Graph, subject: URIRef, predicate) -> tuple[str, str]:
+  """Geef de eerste Nederlandse literal voor *predicate*, of anders de eerste beschikbare.
+
+  Returns:
+    Tuple van (tekst, taalcode).
+  """
   literals = [v for v in graph.objects(subject, predicate) if isinstance(v, Literal)]
   nl_literals = [v for v in literals if v.language == "nl"]
   if nl_literals:
@@ -57,6 +67,7 @@ def literal_nl(graph: Graph, subject: URIRef, predicate) -> tuple[str, str]:
 
 
 def literals_nl(graph: Graph, subject: URIRef, predicate) -> list[str]:
+  """Geef alle Nederlandse literals voor *predicate*, of anders alle beschikbare."""
   values = [v for v in graph.objects(subject, predicate) if isinstance(v, Literal)]
   nl_values = [str(v) for v in values if v.language == "nl"]
   if nl_values:
@@ -65,6 +76,7 @@ def literals_nl(graph: Graph, subject: URIRef, predicate) -> list[str]:
 
 
 def date_literal(graph: Graph, subject: URIRef, predicate) -> str:
+  """Lees een datumliteral (xsd:date) als ISO-datumstring zonder type-suffix."""
   for value in graph.objects(subject, predicate):
     if isinstance(value, Literal):
       return str(value).split("^^", 1)[0].strip('"')
@@ -72,6 +84,7 @@ def date_literal(graph: Graph, subject: URIRef, predicate) -> str:
 
 
 def get_dct_predicate(graph: Graph, subject: URIRef, local_name: str):
+  """Bepaal het juiste dct-predicaat (volledige URI of rdflib DCTERMS-namespace)."""
   dct = URIRef(f"http://purl.org/dc/terms/{local_name}")
   if list(graph.objects(subject, dct)):
     return dct
@@ -79,6 +92,7 @@ def get_dct_predicate(graph: Graph, subject: URIRef, local_name: str):
 
 
 def scheme_uri_for_graph(graph: Graph) -> str:
+  """Bepaal de primaire ConceptScheme-URI (meest gebruikt via skos:inScheme)."""
   schemes = list(graph.subjects(RDF.type, SKOS.ConceptScheme))
   if not schemes:
     return ""
@@ -95,6 +109,7 @@ def scheme_uri_for_graph(graph: Graph) -> str:
 
 
 def uri_to_slug(uri: str) -> str | None:
+  """Leid een URL-slug af uit een begrip- of collectie-URI."""
   parsed = urlparse(uri)
   path = unquote(parsed.path).rstrip("/")
   for segment in ("/begrip/", "/collectie/"):
@@ -107,6 +122,7 @@ def uri_to_slug(uri: str) -> str | None:
 
 
 def classify_source_text(text: str) -> str | None:
+  """Classificeer brontekst als ``overgenomen``, ``afgeleid`` of ``eigen``."""
   for category, pattern in SOURCE_CATEGORIES.items():
     if pattern.search(text.strip()):
       return category
@@ -114,6 +130,7 @@ def classify_source_text(text: str) -> str | None:
 
 
 def parse_sources(graph: Graph, subject: URIRef) -> list[dict[str, Any]]:
+  """Parse dct:source-waarden naar gestructureerde bronobjecten met categorie."""
   sources: list[dict[str, Any]] = []
   source_pred = get_dct_predicate(graph, subject, "source")
   for value in graph.objects(subject, source_pred):
@@ -134,6 +151,7 @@ def parse_sources(graph: Graph, subject: URIRef) -> list[dict[str, Any]]:
 
 
 def resolve_relation(graph: Graph, uri: str, concept_by_uri: dict[str, dict]) -> dict[str, Any]:
+  """Los een relatie-URI op naar slug, prefLabel en of het een intern concept is."""
   concept = concept_by_uri.get(uri)
   if concept:
     return {
@@ -153,6 +171,7 @@ def resolve_relation(graph: Graph, uri: str, concept_by_uri: dict[str, dict]) ->
 
 
 def first_letter_nl(label: str) -> str:
+  """Geef de eerste letter van *label* voor alfabet-index (``#`` als fallback)."""
   if not label:
     return "#"
   first = label[0].upper()
@@ -162,6 +181,15 @@ def first_letter_nl(label: str) -> str:
 
 
 def build_version(version_id: str, ttl_path: Path) -> None:
+  """Parse één TTL-versie en schrijf alle JSON-indexen naar ``public/build/{version_id}/``.
+
+  Genereert o.a. concepts, collections, search-index, alphabet-index en
+  graph-edges. Gooit ``ValueError`` bij dubbele slugs of ontbrekende slugs.
+
+  Args:
+    version_id: Versie-identificatie (mapnaam in de output).
+    ttl_path: Pad naar het Turtle-bronbestand.
+  """
   raw_content = ttl_path.read_text(encoding="utf-8")
   graph = Graph()
   graph.parse(data=raw_content, format="turtle")
@@ -347,10 +375,16 @@ def build_version(version_id: str, ttl_path: Path) -> None:
 
 
 def write_json(path: Path, data: Any) -> None:
+  """Schrijf *data* als UTF-8 JSON met inspringing naar *path*."""
   path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def main() -> int:
+  """Bouw JSON-indexen voor alle versies uit ``versions.json``.
+
+  Returns:
+    Exitcode 0 bij succes, 1 bij ontbrekende bestanden of buildfouten.
+  """
   if not VERSIONS_FILE.exists():
     print(f"versions.json niet gevonden: {VERSIONS_FILE}", file=sys.stderr)
     return 1
