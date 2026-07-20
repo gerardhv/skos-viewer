@@ -4,7 +4,7 @@ Publieke statische site voor het [Begrippenkader Corporatiesector](http://begrip
 
 ## Functies
 
-- Thematische browse via 7 SKOS-collecties
+- Thematische browse via SKOS-collecties
 - Zoeken op voorkeursterm, synoniem, definitie en toelichting
 - Alfabet-navigatie (A–Z + #)
 - Begrip-detailpagina's met NL-SBB-labels
