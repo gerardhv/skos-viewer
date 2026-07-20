@@ -71,7 +71,7 @@ src/                        # Astro-site
 ## GitHub Pages
 
 - Workflow: `.github/workflows/deploy.yml`
-- Base path: `/skos-viewer/` (moet overeenkomen met de GitHub-reponaam)
+- Base path en site-URL staan in `astro.config.mjs` (standaard `/begrippenkader-corporatiesector/` op `https://aedes-datastandaarden.github.io`)
 - Configureer GitHub Pages op **GitHub Actions** als bron
 
 ## Relatie tot SKOS Manager
